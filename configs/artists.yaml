@@ -1,0 +1,90 @@
+# Genre-specific artist lists for Genius API collection
+# Each artist should produce ~50-75 songs for target of 1,000-1,500 per genre
+
+pop:
+  - Ariana Grande
+  - Dua Lipa
+  - Katy Perry
+  - Carly Rae Jepsen
+  - Ellie Goulding
+  - Harry Styles
+  - Bruno Mars
+  - Meghan Trainor
+  - Britney Spears
+  - Christina Aguilera
+  - Justin Bieber
+  - Selena Gomez
+  - Bebe Rexha
+  - Rita Ora
+  - Troye Sivan
+  - Tove Lo
+  - Ava Max
+  - Zara Larsson
+  - Madison Beer
+  - Charli XCX
+
+hiphop:
+  - Kendrick Lamar
+  - J. Cole
+  - Drake
+  - Travis Scott
+  - Nicki Minaj
+  - Lil Wayne
+  - Future
+  - 21 Savage
+  - Wiz Khalifa
+  - Big Sean
+  - Meek Mill
+  - Pusha T
+  - Mac Miller
+  - A$AP Rocky
+  - Logic
+  - Chief Keef
+  - Waka Flocka Flame
+  - Gucci Mane
+  - Rick Ross
+  - Schoolboy Q
+
+country:
+  - Luke Combs
+  - Blake Shelton
+  - Miranda Lambert
+  - Carrie Underwood
+  - Eric Church
+  - Jason Aldean
+  - Cody Johnson
+  - Keith Urban
+  - Tim McGraw
+  - Brooks & Dunn
+  - Brad Paisley
+  - Dierks Bentley
+  - Lee Brice
+  - Randy Houser
+  - Chris Young
+  - Trace Adkins
+  - Rascal Flatts
+  - George Strait
+  - Reba McEntire
+  - Martina McBride
+
+rock:
+  - Foo Fighters
+  - Red Hot Chili Peppers
+  - Green Day
+  - Pearl Jam
+  - Metallica
+  - AC/DC
+  - Aerosmith
+  - Soundgarden
+  - Alice in Chains
+  - Stone Temple Pilots
+  - Radiohead
+  - Weezer
+  - Kings of Leon
+  - Smashing Pumpkins
+  - Disturbed
+  - Shinedown
+  - Godsmack
+  - Seether
+  - Three Days Grace
+  - Bush

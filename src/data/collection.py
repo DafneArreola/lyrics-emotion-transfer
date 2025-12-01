@@ -27,14 +27,22 @@ logger = logging.getLogger(__name__)
 class GeniusCollector:
     """Collect lyrics from Genius API for specified artists."""
     
-    def __init__(self, api_token: str, config_path: str = "configs/artists.yaml"):
+    def __init__(self, api_token: str, project_root: Path = None):
         """
         Initialize collector.
         
         Args:
             api_token: Genius API access token
-            config_path: Path to artist configuration YAML
+            project_root: Path to project root (auto-detected if None)
         """
+        # Find project root (directory containing configs/ and data/)
+        if project_root is None:
+            current = Path(__file__).resolve()
+            # Go up from src/data/collection.py to project root
+            project_root = current.parent.parent.parent
+        
+        self.project_root = Path(project_root)
+        
         self.genius = lyricsgenius.Genius(
             api_token,
             sleep_time=0.5,  # Rate limiting: 2 requests/second
@@ -45,11 +53,12 @@ class GeniusCollector:
             excluded_terms=["(Remix)", "(Live)", "(Acoustic)", "(Demo)"]
         )
         
-        # Load artist lists
+        # Load artist lists from project root
+        config_path = self.project_root / "configs" / "artists.yaml"
         with open(config_path, 'r') as f:
             self.artists_by_genre = yaml.safe_load(f)
         
-        self.raw_dir = Path("data/raw/genius_pulls")
+        self.raw_dir = self.project_root / "data" / "raw" / "genius_pulls"
         self.raw_dir.mkdir(parents=True, exist_ok=True)
         
     def collect_artist_songs(

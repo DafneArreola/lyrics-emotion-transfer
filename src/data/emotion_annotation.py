@@ -19,7 +19,17 @@ class ValenceArousalAnnotator:
     Uses NRC VAD Lexicon (Valence, Arousal, Dominance)
     """
     
-    def __init__(self, config_path='configs/emotions.yaml'):
+    def __init__(self, project_root: Path = None):
+        # Find project root (directory containing configs/ and data/)
+        if project_root is None:
+            current = Path(__file__).resolve()
+            # Go up from src/data/emotion_annotation.py to project root
+            project_root = current.parent.parent.parent
+        
+        self.project_root = Path(project_root)
+        
+        # Load config from project root
+        config_path = self.project_root / "configs" / "emotions.yaml"
         with open(config_path, 'r') as f:
             self.config = yaml.safe_load(f)
         
@@ -37,12 +47,12 @@ class ValenceArousalAnnotator:
         Download from: https://saifmohammad.com/WebPages/nrc-vad.html
         """
         # Try to load local copy first
-        lexicon_path = Path('data/raw/NRC-VAD-Lexicon.txt')
+        lexicon_path = self.project_root / "data" / "raw" / "NRC-VAD-Lexicon.txt"
         
         if not lexicon_path.exists():
             print("NRC-VAD Lexicon not found locally.")
-            print("Please download from: https://saifmohammad.com/WebPages/nrc-vad.html")
-            print("Save to: data/raw/NRC-VAD-Lexicon.txt")
+            print(f"Please download from: https://saifmohammad.com/WebPages/nrc-vad.html")
+            print(f"Save to: {lexicon_path}")
             print("\nUsing simplified example lexicon for demonstration...")
             
             # Return example lexicon structure
