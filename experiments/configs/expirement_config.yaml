@@ -1,0 +1,103 @@
+# Experiment Configuration for Cross-Genre Emotion Classification
+# ================================================================
+# This file centralizes hyperparameters and settings for reproducibility.
+
+# Data settings
+data:
+  genres:
+    - classic-pop
+    - hip-hop
+    - hard-rock
+    - country
+  raw_dir: "data/raw"
+  processed_dir: "data/processed"
+  splits_dir: "data/splits"
+  
+# Emotion labeling
+emotion:
+  method: "nrc_vad"
+  lexicon_path: "data/lexicons/NRC-VAD-Lexicon.txt"
+  labels:
+    - happy     # +V+A
+    - angry     # -V+A
+    - sad       # -V-A
+    - relaxed   # +V-A
+  # Adaptive thresholds: computed from data median to ensure balanced classes
+  # This is methodologically defensible as it adapts to actual lyrical content
+  # rather than assuming arbitrary scale centering
+  adaptive_threshold: true
+  threshold_method: "median"  # 'median' or 'mean'
+
+# Data splitting
+splitting:
+  test_size: 0.2
+  val_size: 0.1
+  random_seed: 42
+
+# Experiment 1: Logistic Regression Baseline
+experiment_1:
+  name: "logistic_regression_baseline"
+  model:
+    type: "logistic_regression"
+    solver: "lbfgs"
+    max_iter: 1000
+    class_weight: "balanced"
+  features:
+    type: "bow"  # bag-of-words
+    vectorizer: "count"  # CountVectorizer
+    max_features: 5000
+    ngram_range: [1, 2]
+    min_df: 2
+  analysis:
+    top_features_per_emotion: 30
+
+# Experiment 2: DistilBERT Neural Transfer
+experiment_2:
+  name: "distilbert_transfer"
+  model:
+    type: "distilbert"
+    pretrained: "distilbert-base-uncased"
+    num_labels: 4
+  training:
+    batch_size: 16
+    learning_rate: 2.0e-5
+    epochs: 3
+    warmup_steps: 100
+    weight_decay: 0.01
+  class_weights: true  # Use weighted loss for imbalance
+
+# Experiment 3: Transfer Matrix Analysis
+experiment_3:
+  name: "asymmetric_transfer"
+  metrics:
+    - macro_f1
+    - per_emotion_f1
+  visualization:
+    heatmap: true
+    confusion_matrices: true
+
+# Experiment 4: Error Analysis (Optional)
+experiment_4:
+  name: "error_analysis"
+  sample_size: 50  # Misclassifications to examine per poor-performing pair
+  categories:
+    - mislabeling
+    - genre_specific_expression
+    - model_limitation
+
+# Evaluation metrics
+evaluation:
+  primary: "macro_f1"
+  secondary:
+    - "precision"
+    - "recall"
+    - "per_emotion_f1"
+  save_confusion_matrices: true
+
+# Output paths
+output:
+  models_dir: "results/models"
+  metrics_dir: "results/metrics"
+  figures_dir: "results/figures"
+
+

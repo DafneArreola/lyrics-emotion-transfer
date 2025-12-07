@@ -1,0 +1,36 @@
+{
+  "genres": [
+    "classic-pop",
+    "hip-hop",
+    "hard-rock",
+    "country"
+  ],
+  "splits": [
+    "train",
+    "val",
+    "test"
+  ],
+  "format": "csv",
+  "sizes": {
+    "classic-pop": {
+      "train": 350,
+      "val": 39,
+      "test": 98
+    },
+    "hip-hop": {
+      "train": 360,
+      "val": 40,
+      "test": 100
+    },
+    "hard-rock": {
+      "train": 349,
+      "val": 39,
+      "test": 97
+    },
+    "country": {
+      "train": 360,
+      "val": 40,
+      "test": 100
+    }
+  }
+}

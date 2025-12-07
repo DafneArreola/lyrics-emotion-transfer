@@ -1,0 +1,30 @@
+{
+  "experiment": "Experiment 1: Logistic Regression Baseline",
+  "timestamp": "2025-12-07T03:13:37.160197",
+  "config": {
+    "max_features": 5000,
+    "ngram_range": [
+      1,
+      2
+    ],
+    "min_df": 2,
+    "max_iter": 1000,
+    "class_weight": "balanced",
+    "random_state": 42,
+    "top_features_per_emotion": 30
+  },
+  "summary": {
+    "mean_within_genre_f1": 0.3994196798375427,
+    "mean_cross_genre_f1": 0.32124363243188864,
+    "best_transfer_pair": {
+      "train": "country",
+      "test": "classic-pop",
+      "f1": 0.4785743710669489
+    },
+    "worst_transfer_pair": {
+      "train": "hard-rock",
+      "test": "classic-pop",
+      "f1": 0.22588200489986204
+    }
+  }
+}
