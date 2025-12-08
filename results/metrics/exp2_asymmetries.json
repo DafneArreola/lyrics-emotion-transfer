@@ -1,0 +1,56 @@
+[
+  {
+    "pair": "classic-pop \u2194 hard-rock",
+    "forward": "classic-pop \u2192 hard-rock",
+    "backward": "hard-rock \u2192 classic-pop",
+    "f1_forward": 0.3726692551434819,
+    "f1_backward": 0.1581775377371555,
+    "difference": 0.21449171740632642,
+    "abs_difference": 0.21449171740632642
+  },
+  {
+    "pair": "hard-rock \u2194 country",
+    "forward": "hard-rock \u2192 country",
+    "backward": "country \u2192 hard-rock",
+    "f1_forward": 0.1795959595959596,
+    "f1_backward": 0.33206184421480384,
+    "difference": -0.15246588461884425,
+    "abs_difference": 0.15246588461884425
+  },
+  {
+    "pair": "hip-hop \u2194 country",
+    "forward": "hip-hop \u2192 country",
+    "backward": "country \u2192 hip-hop",
+    "f1_forward": 0.2992661778670278,
+    "f1_backward": 0.1860227491806439,
+    "difference": 0.1132434286863839,
+    "abs_difference": 0.1132434286863839
+  },
+  {
+    "pair": "hip-hop \u2194 hard-rock",
+    "forward": "hip-hop \u2192 hard-rock",
+    "backward": "hard-rock \u2192 hip-hop",
+    "f1_forward": 0.4088185359033256,
+    "f1_backward": 0.29929813399278327,
+    "difference": 0.10952040191054235,
+    "abs_difference": 0.10952040191054235
+  },
+  {
+    "pair": "classic-pop \u2194 hip-hop",
+    "forward": "classic-pop \u2192 hip-hop",
+    "backward": "hip-hop \u2192 classic-pop",
+    "f1_forward": 0.1831201770394746,
+    "f1_backward": 0.26420251104394327,
+    "difference": -0.08108233400446865,
+    "abs_difference": 0.08108233400446865
+  },
+  {
+    "pair": "classic-pop \u2194 country",
+    "forward": "classic-pop \u2192 country",
+    "backward": "country \u2192 classic-pop",
+    "f1_forward": 0.3058182926603979,
+    "f1_backward": 0.29862993584530584,
+    "difference": 0.007188356815092056,
+    "abs_difference": 0.007188356815092056
+  }
+]

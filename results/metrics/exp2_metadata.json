@@ -1,0 +1,39 @@
+{
+  "experiment": "Experiment 2: DistilBERT Neural Transfer (EXTENDED)",
+  "timestamp": "2025-12-07T17:00:36.091146",
+  "config": {
+    "model_name": "distilbert-base-uncased",
+    "num_labels": 4,
+    "max_length": 512,
+    "epochs": 10,
+    "batch_size": 16,
+    "learning_rate": 1e-05,
+    "warmup_steps": 200,
+    "weight_decay": 0.01,
+    "use_class_weights": true,
+    "early_stopping_patience": 3,
+    "random_seed": 42
+  },
+  "device": "cpu",
+  "training_info": {
+    "epochs_configured": 10,
+    "early_stopping_patience": 3,
+    "learning_rate": 1e-05,
+    "warmup_steps": 200
+  },
+  "summary": {
+    "mean_within_genre_f1": 0.2896108259857231,
+    "mean_cross_genre_f1": 0.2739734258520253,
+    "transfer_drop_pct": 5.399452896995181
+  },
+  "comparison_with_exp1": {
+    "exp1_within_genre_f1": 0.3994196798375427,
+    "exp1_cross_genre_f1": 0.32124363243188864,
+    "exp2_within_genre_f1": 0.2896108259857231,
+    "exp2_cross_genre_f1": 0.2739734258520253,
+    "within_genre_improvement": -0.1098088538518196,
+    "cross_genre_improvement": -0.04727020657986336,
+    "exp1_transfer_drop": 0.19572407508175574,
+    "exp2_transfer_drop": 0.05399452896995181
+  }
+}

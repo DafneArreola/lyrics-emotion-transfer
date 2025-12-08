@@ -175,6 +175,7 @@ class DistilBERTEmotionClassifier:
         warmup_steps: int = 100,
         weight_decay: float = 0.01,
         use_class_weights: bool = True,
+        early_stopping_patience: Optional[int] = None,
         verbose: bool = True
     ) -> 'DistilBERTEmotionClassifier':
         """
@@ -191,6 +192,7 @@ class DistilBERTEmotionClassifier:
             warmup_steps: Linear warmup steps
             weight_decay: Weight decay for regularization
             use_class_weights: Whether to use weighted loss
+            early_stopping_patience: Stop if no improvement for N epochs (None = disabled)
             verbose: Print progress
         
         Returns:
@@ -240,9 +242,14 @@ class DistilBERTEmotionClassifier:
             num_training_steps=total_steps
         )
         
-        # Training loop
+        # Training loop with early stopping
         self.model.train()
         self.history = {'train_loss': [], 'val_loss': [], 'val_f1': []}
+        
+        best_val_f1 = 0.0
+        best_model_state = None
+        patience_counter = 0
+        patience = early_stopping_patience if early_stopping_patience else epochs
         
         for epoch in range(epochs):
             epoch_loss = 0.0
@@ -290,9 +297,34 @@ class DistilBERTEmotionClassifier:
                 if verbose:
                     print(f'  Train Loss: {avg_train_loss:.4f}, '
                           f'Val Loss: {val_loss:.4f}, Val F1: {val_f1:.4f}')
+                
+                # Early stopping check
+                if val_f1 > best_val_f1:
+                    best_val_f1 = val_f1
+                    best_model_state = {k: v.cpu().clone() for k, v in self.model.state_dict().items()}
+                    patience_counter = 0
+                    if verbose:
+                        print(f'  ↑ New best model (F1: {best_val_f1:.4f})')
+                else:
+                    patience_counter += 1
+                    if verbose and early_stopping_patience:
+                        print(f'  No improvement ({patience_counter}/{patience})')
+                
+                # Stop if patience exceeded
+                if early_stopping_patience and patience_counter >= patience:
+                    if verbose:
+                        print(f'\n  Early stopping triggered at epoch {epoch+1}')
+                    break
             else:
                 if verbose:
                     print(f'  Train Loss: {avg_train_loss:.4f}')
+        
+        # Restore best model if early stopping was used
+        if best_model_state is not None and early_stopping_patience:
+            self.model.load_state_dict(best_model_state)
+            self.model.to(self.device)
+            if verbose:
+                print(f'\n  Restored best model (Val F1: {best_val_f1:.4f})')
         
         self.is_fitted = True
         return self
