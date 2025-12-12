@@ -1,0 +1,132 @@
+{
+  "exp1_asymmetries": [
+    {
+      "genre_a": "classic-pop",
+      "genre_b": "hip-hop",
+      "a_to_b": 0.2422619047619047,
+      "b_to_a": 0.3252812733717036,
+      "asymmetry": -0.08301936860979889,
+      "abs_asymmetry": 0.08301936860979889,
+      "ratio": 1.3426843716571553,
+      "dominant_direction": "hip-hop\u2192classic-pop"
+    },
+    {
+      "genre_a": "classic-pop",
+      "genre_b": "country",
+      "a_to_b": 0.3985316181986673,
+      "b_to_a": 0.4785743710669489,
+      "asymmetry": -0.08004275286828161,
+      "abs_asymmetry": 0.08004275286828161,
+      "ratio": 1.2008441719883325,
+      "dominant_direction": "country\u2192classic-pop"
+    },
+    {
+      "genre_a": "classic-pop",
+      "genre_b": "hard-rock",
+      "a_to_b": 0.3046577004752755,
+      "b_to_a": 0.225882004899862,
+      "asymmetry": 0.07877569557541353,
+      "abs_asymmetry": 0.07877569557541353,
+      "ratio": 1.348747106305951,
+      "dominant_direction": "classic-pop\u2192hard-rock"
+    },
+    {
+      "genre_a": "hip-hop",
+      "genre_b": "hard-rock",
+      "a_to_b": 0.3017570937344148,
+      "b_to_a": 0.3784804388231561,
+      "asymmetry": -0.07672334508874129,
+      "abs_asymmetry": 0.07672334508874129,
+      "ratio": 1.25425531555612,
+      "dominant_direction": "hard-rock\u2192hip-hop"
+    },
+    {
+      "genre_a": "hip-hop",
+      "genre_b": "country",
+      "a_to_b": 0.2319291819291819,
+      "b_to_a": 0.3003350949435673,
+      "asymmetry": -0.0684059130143854,
+      "abs_asymmetry": 0.0684059130143854,
+      "ratio": 1.294943104810643,
+      "dominant_direction": "country\u2192hip-hop"
+    },
+    {
+      "genre_a": "hard-rock",
+      "genre_b": "country",
+      "a_to_b": 0.3406946480938416,
+      "b_to_a": 0.3265382588841402,
+      "asymmetry": 0.014156389209701414,
+      "abs_asymmetry": 0.014156389209701414,
+      "ratio": 1.0433529267231265,
+      "dominant_direction": "hard-rock\u2192country"
+    }
+  ],
+  "exp2_asymmetries": [
+    {
+      "genre_a": "classic-pop",
+      "genre_b": "hard-rock",
+      "a_to_b": 0.3726692551434819,
+      "b_to_a": 0.1581775377371555,
+      "asymmetry": 0.21449171740632642,
+      "abs_asymmetry": 0.21449171740632642,
+      "ratio": 2.3560188157862747,
+      "dominant_direction": "classic-pop\u2192hard-rock"
+    },
+    {
+      "genre_a": "hard-rock",
+      "genre_b": "country",
+      "a_to_b": 0.1795959595959596,
+      "b_to_a": 0.3320618442148038,
+      "asymmetry": -0.1524658846188442,
+      "abs_asymmetry": 0.1524658846188442,
+      "ratio": 1.8489382776864778,
+      "dominant_direction": "country\u2192hard-rock"
+    },
+    {
+      "genre_a": "hip-hop",
+      "genre_b": "country",
+      "a_to_b": 0.2992661778670278,
+      "b_to_a": 0.1860227491806439,
+      "asymmetry": 0.1132434286863839,
+      "abs_asymmetry": 0.1132434286863839,
+      "ratio": 1.6087611820875463,
+      "dominant_direction": "hip-hop\u2192country"
+    },
+    {
+      "genre_a": "hip-hop",
+      "genre_b": "hard-rock",
+      "a_to_b": 0.4088185359033256,
+      "b_to_a": 0.2992981339927832,
+      "asymmetry": 0.10952040191054241,
+      "abs_asymmetry": 0.10952040191054241,
+      "ratio": 1.3659241053376672,
+      "dominant_direction": "hip-hop\u2192hard-rock"
+    },
+    {
+      "genre_a": "classic-pop",
+      "genre_b": "hip-hop",
+      "a_to_b": 0.1831201770394746,
+      "b_to_a": 0.2642025110439432,
+      "asymmetry": -0.0810823340044686,
+      "abs_asymmetry": 0.0810823340044686,
+      "ratio": 1.4427820861432978,
+      "dominant_direction": "hip-hop\u2192classic-pop"
+    },
+    {
+      "genre_a": "classic-pop",
+      "genre_b": "country",
+      "a_to_b": 0.3058182926603979,
+      "b_to_a": 0.2986299358453058,
+      "asymmetry": 0.007188356815092112,
+      "abs_asymmetry": 0.007188356815092112,
+      "ratio": 1.0240711193094043,
+      "dominant_direction": "classic-pop\u2192country"
+    }
+  ],
+  "comparison": {
+    "exp1_max_asymmetry": 0.08301936860979889,
+    "exp2_max_asymmetry": 0.21449171740632642,
+    "exp1_mean_asymmetry": 0.06685391072772034,
+    "exp2_mean_asymmetry": 0.11299868724027629
+  }
+}

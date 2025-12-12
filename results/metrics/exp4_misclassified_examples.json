@@ -1,0 +1,1444 @@
+{
+  "classic-pop": {
+    "relaxed_as_happy": [
+      {
+        "lyrics_preview": "It's right that I should care about you And try to make you happy when you're blue It's right, it's right to feel the way I do Because, because I-I love you It's wrong to say, I don't think of you 'Cause when you say these things You know it makes me blue Give me one kiss, and I'll be happy Just, ju...",
+        "title": "Because",
+        "artist": "Dave Clark Five",
+        "confidence": 0.5873968965999485,
+        "class_probabilities": {
+          "angry": 0.07116193148631127,
+          "happy": 0.5873968965999485,
+          "relaxed": 0.2725997369629705,
+          "sad": 0.06884143495076965
+        }
+      },
+      {
+        "lyrics_preview": "It\u2019s getting near dawn When lights close their tired eyes I\u2019ll soon be with you, my love Give you my dawn surprise I\u2019ll be with you, darling, soon I\u2019ll be with you when the stars start falling I\u2019ve been waiting so long To be where I\u2019m going In the sunshine of your love I\u2019m with you, my love The ligh...",
+        "title": "Sunshine of Your Love",
+        "artist": "Cream",
+        "confidence": 0.410578114606292,
+        "class_probabilities": {
+          "angry": 0.11078683214252728,
+          "happy": 0.410578114606292,
+          "relaxed": 0.308398795913243,
+          "sad": 0.1702362573379378
+        }
+      },
+      {
+        "lyrics_preview": "Wanted, wanted Alone, so alone that I could cry I want to be wanted wanted Alone, watching lovers passing by I want to be wanted When I am kissed I want his lips to really kiss me When we're apart I want his heart to really miss me I want to know He loves me so his eyes are misting That's the way I ...",
+        "title": "I Want to Be Wanted",
+        "artist": "Brenda Lee",
+        "confidence": 0.3699051258646927,
+        "class_probabilities": {
+          "angry": 0.22316504494529657,
+          "happy": 0.3699051258646927,
+          "relaxed": 0.24151410373711069,
+          "sad": 0.16541572545290004
+        }
+      }
+    ],
+    "happy_as_relaxed": [
+      {
+        "lyrics_preview": "Do you believe in magic, in a young girl's heart? How the music can free her whenever it starts? And it's magic, if the music is groovy It makes you feel happy like an old-time movie I'll tell you about the magic, and it'll free your soul But it's like tryin' tell a stranger 'bout-a rock 'n' roll If...",
+        "title": "Do You Believe in Magic",
+        "artist": "Lovin\u2019 Spoonful",
+        "confidence": 0.34428228476581524,
+        "class_probabilities": {
+          "angry": 0.2178128921236173,
+          "happy": 0.20974125365224927,
+          "relaxed": 0.34428228476581524,
+          "sad": 0.22816356945831817
+        }
+      },
+      {
+        "lyrics_preview": "Drop your silver in my tambourine Help a poor man build a pretty dream Give me pennies, I'll take anything Now listen while I play My green tambourine Watch the jingle jangle start to shine Reflections of the music that is mine When you toss a coin, you'll hear it sing Now listen while I play My gre...",
+        "title": "Green Tambourine",
+        "artist": "The Lemon Pipers",
+        "confidence": 0.3419539769424744,
+        "class_probabilities": {
+          "angry": 0.19265023922134364,
+          "happy": 0.18660128524526642,
+          "relaxed": 0.3419539769424744,
+          "sad": 0.27879449859091565
+        }
+      },
+      {
+        "lyrics_preview": "Someday, someway You'll realize that you've been blind Yes, darling, you're going to need me again It's just a matter of time Go on, go on Until you reach the end of the line But I know you'll pass my way again It's just a matter of time After I gave you everything I had You laughed and called me a ...",
+        "title": "It's Just a Matter of Time",
+        "artist": "Brook Benton",
+        "confidence": 0.3344846389166838,
+        "class_probabilities": {
+          "angry": 0.14669810156154064,
+          "happy": 0.2959558989707742,
+          "relaxed": 0.3344846389166838,
+          "sad": 0.22286136055100148
+        }
+      }
+    ],
+    "angry_as_sad": [
+      {
+        "lyrics_preview": "There's something happening here But what it is ain't exactly clear There's a man with a gun over there A-telling me I got to beware I think it's time we stop Children, what's that sound? Everybody look what's going down There's battle lines being drawn And nobody's right if everybody's wrong Young ...",
+        "title": "For What It\u2019s Worth",
+        "artist": "Buffalo Springfield",
+        "confidence": 0.4842231323466447,
+        "class_probabilities": {
+          "angry": 0.1273622903941632,
+          "happy": 0.17032146914410162,
+          "relaxed": 0.2180931081150904,
+          "sad": 0.4842231323466447
+        }
+      },
+      {
+        "lyrics_preview": "Here they come again Mmm-mm-mm Catch us if you can Mmm-mm-mm Time to get a move on Mmm-mm-mm We will yell with all of our might Catch us if you can Catch us if you can Catch us if you can Catch us if you can Now, we gotta run Mmm-mm-mm No more time for fun Mmm-mm-mm When we're gettin' angry Mmm-mm-m...",
+        "title": "Catch Us If You Can",
+        "artist": "The Dave Clark Five",
+        "confidence": 0.4177812127739824,
+        "class_probabilities": {
+          "angry": 0.2194791316984673,
+          "happy": 0.15429508938559625,
+          "relaxed": 0.20844456614195406,
+          "sad": 0.4177812127739824
+        }
+      },
+      {
+        "lyrics_preview": "The warden threw a party in the county jail The prison band was there, they began to wail The band was jumping, and the joint began to swing You shoulda heard those locked-out jailbirds sing Let's rock, everybody, let's rock Everybody in the whole cell block Was dancing to the Jailhouse Rock Spider ...",
+        "title": "Jailhouse Rock",
+        "artist": "Elvis Presley",
+        "confidence": 0.3760082193924322,
+        "class_probabilities": {
+          "angry": 0.20229093903927295,
+          "happy": 0.17075129286425172,
+          "relaxed": 0.2509495487040432,
+          "sad": 0.3760082193924322
+        }
+      }
+    ],
+    "sad_as_relaxed": [
+      {
+        "lyrics_preview": "I know you wanna leave me But I refuse to let you go If I have to beg and plead for your sympathy I don't mind 'cause you mean that much to me Ain't too proud to beg, sweet darlin' Please don't leave me girl, don't you go Ain't too proud to plead, baby, baby Please don't leave me, girl, don't you go...",
+        "title": "Ain\u2019t Too Proud to Beg",
+        "artist": "The Temptations",
+        "confidence": 0.4943360076943307,
+        "class_probabilities": {
+          "angry": 0.17382158186192004,
+          "happy": 0.17591587038931122,
+          "relaxed": 0.4943360076943307,
+          "sad": 0.1559265400544381
+        }
+      },
+      {
+        "lyrics_preview": "I'm not content to be with you in the daytime Girl, I want to be with you all of the time The only time I feel all right is by your side Girl, I want to be with you all of the time All day and all of the night All day and all of the night All day and all of the night I believe that you and me last f...",
+        "title": "All Day and All of the Night",
+        "artist": "The Kinks",
+        "confidence": 0.4286346354836166,
+        "class_probabilities": {
+          "angry": 0.2203048754609298,
+          "happy": 0.09421586856543324,
+          "relaxed": 0.4286346354836166,
+          "sad": 0.2568446204900204
+        }
+      },
+      {
+        "lyrics_preview": "When a man loves a woman Can't keep his mind on nothin' else He'd change the world for the good thing he's found If she is bad, he can't see it She can do no wrong Turn his back on his best friend if he put her down When a man loves a woman He'll spend his very last dime Tryin' to hold on to what he...",
+        "title": "When a Man Loves a Woman",
+        "artist": "Percy Sledge",
+        "confidence": 0.36451725260987916,
+        "class_probabilities": {
+          "angry": 0.12593340062019343,
+          "happy": 0.30657150792644,
+          "relaxed": 0.36451725260987916,
+          "sad": 0.20297783884348738
+        }
+      }
+    ],
+    "sad_as_angry": [
+      {
+        "lyrics_preview": "Here's my story, it's sad but true It's about a girl that I once knew She took my love, then ran around With every single guy in town Hape-hape, bum-da-hey-di-hey-di Hape-hape, bum-da-hey-di-hey-di Hape-hape, bum-da-hey-di-hey-di, hape Hape-hape, bum-da-hey-di-hey-di Hape-hape, bum-da-hey-di-hey-di ...",
+        "title": "Runaround Sue",
+        "artist": "Dion",
+        "confidence": 0.33186046015219656,
+        "class_probabilities": {
+          "angry": 0.33186046015219656,
+          "happy": 0.20995877314785136,
+          "relaxed": 0.2705952153863095,
+          "sad": 0.1875855513136426
+        }
+      },
+      {
+        "lyrics_preview": "Little deuce coupe You don't know what I got You don't know what I got Little deuce coupe You don't know what I got Well, I'm not bragging babe so don't put me down deuce coupe But I've got the fastest set of wheels in town deuce coupe When something comes up to me, he don't even try deuce coupe 'Ca...",
+        "title": "Little Deuce Coupe",
+        "artist": "The Beach Boys",
+        "confidence": 0.2938801982065883,
+        "class_probabilities": {
+          "angry": 0.2938801982065883,
+          "happy": 0.23190475304243932,
+          "relaxed": 0.2706752736758395,
+          "sad": 0.203539775075133
+        }
+      }
+    ],
+    "relaxed_as_sad": [
+      {
+        "lyrics_preview": "It's the little old lady from Pasadena The little old lady from Pasadena Go granny, go granny, go granny go Has a pretty little flower bed of white gardenias Go granny, go granny, go granny go But parked in her rickety old garage Is a brand new shiny red Super Stock Dodge And everybody's saying that...",
+        "title": "This Little Old Lady from Pasadena",
+        "artist": "Jan & Dean",
+        "confidence": 0.3410739149821748,
+        "class_probabilities": {
+          "angry": 0.17205952667220947,
+          "happy": 0.19200987430954713,
+          "relaxed": 0.2948566840360686,
+          "sad": 0.3410739149821748
+        }
+      },
+      {
+        "lyrics_preview": "Tweedily-deedily-dee, tweedily-deedily-dee Tweedily-deedily dee, tweedily-deedily-dee Tweedily-deedily dee, tweedily-deedily-dee Tweet, tweet, tweet, tweet He rocks in the treetops all day long Hoppin' and a-boppin' and singin' his song All the little birdies on Jaybird Street Love to hear the robin...",
+        "title": "Rockin\u2019 Robin",
+        "artist": "Michael Jackson",
+        "confidence": 0.30417092866984463,
+        "class_probabilities": {
+          "angry": 0.2074377031965575,
+          "happy": 0.22830082739181795,
+          "relaxed": 0.26009054074177984,
+          "sad": 0.30417092866984463
+        }
+      },
+      {
+        "lyrics_preview": "Fighting soldiers from the sky Fearless men who jump and die Men who mean just what they say The brave men of the Green Beret Silver wings upon their chest These are men, America's best One hundred men will test today But only three win the Green Beret Trained to live off nature's land Trained in co...",
+        "title": "Ballad of the Green Berets",
+        "artist": "SSgt. Barry Sadler",
+        "confidence": 0.2977765627969595,
+        "class_probabilities": {
+          "angry": 0.2310453309047366,
+          "happy": 0.1977461042484316,
+          "relaxed": 0.2734320020498723,
+          "sad": 0.2977765627969595
+        }
+      }
+    ],
+    "relaxed_as_angry": [
+      {
+        "lyrics_preview": "Doo-lang-doo-lang-doo-lang Doo-lang-doo-lang He's so fine Doo-lang-doo-lang-doo-lang Wish he were mine Doo-lang-doo-lang-doo-lang That handsome boy over there Doo-lang-doo-lang-doo-lang The one with the wavy hair Doo-lang-doo-lang-doo-lang I don't know how I'm gonna do it Doo-lang-doo-lang-doo-lang ...",
+        "title": "He\u2019s So Fine",
+        "artist": "The Chiffons",
+        "confidence": 0.499550074337055,
+        "class_probabilities": {
+          "angry": 0.499550074337055,
+          "happy": 0.13918200419716903,
+          "relaxed": 0.22135172188993024,
+          "sad": 0.1399161995758457
+        }
+      },
+      {
+        "lyrics_preview": "Something in the way she moves Attracts me like no other lover Something in the way she woos me I don't want to leave her now You know I believe and how Somewhere in her smile, she knows That I don't need no other lover Something in her style that shows me I don't want to leave her now You know I be...",
+        "title": "Something",
+        "artist": "The Beatles",
+        "confidence": 0.3098156650546221,
+        "class_probabilities": {
+          "angry": 0.3098156650546221,
+          "happy": 0.25101711544474875,
+          "relaxed": 0.30407277765520097,
+          "sad": 0.1350944418454282
+        }
+      },
+      {
+        "lyrics_preview": "Just got home from Illinois, lock the front door, oh boy Got to sit down, take a rest on the porch Imagination sets in, pretty soon I'm singin' Doot, doot, doo, lookin' out my back door There's a giant doin' cartwheels, a statue wearin' high heels Look at all the happy creatures dancin' on the lawn ...",
+        "title": "Lookin' Out My Back Door",
+        "artist": "Creedence Clearwater Revival",
+        "confidence": 0.30076274685904475,
+        "class_probabilities": {
+          "angry": 0.30076274685904475,
+          "happy": 0.2096211739416761,
+          "relaxed": 0.2564420400409148,
+          "sad": 0.23317403915836424
+        }
+      }
+    ],
+    "happy_as_sad": [
+      {
+        "lyrics_preview": "Born too late for you to notice me To you, I'm just a kid that you won't date Why was I born too late? Born too late to have a chance to win your love Oh why, oh why was it my fate To be born too late? I see you walk with another I wish it could be me I long to hold you and kiss you But I know it ne...",
+        "title": "Born Too Late",
+        "artist": "The Poni-Tails",
+        "confidence": 0.40701783665722396,
+        "class_probabilities": {
+          "angry": 0.16752563196365922,
+          "happy": 0.2472973757743694,
+          "relaxed": 0.17815915560474746,
+          "sad": 0.40701783665722396
+        }
+      },
+      {
+        "lyrics_preview": "Yip yip yip yip yip yip yip yip Sha-na na-na, sha-na na-na na Ba doo Sha-na na-na, sha-na na-na na Ba doo Sha-na na-na, sha-na na-na na Ba doo Sha-na na-na, sha-na na-na na, ba Yip yip yip yip yip yip yip yip Mum mum mum mum mum mum, get a job Sha-na na-na, sha-na na-na na Every morning about this t...",
+        "title": "Get a Job",
+        "artist": "The Silhouettes",
+        "confidence": 0.36886673354885,
+        "class_probabilities": {
+          "angry": 0.1510353459578861,
+          "happy": 0.13646511605050374,
+          "relaxed": 0.34363280444276023,
+          "sad": 0.36886673354885
+        }
+      },
+      {
+        "lyrics_preview": "Hello, I love you Won't you tell me your name? Hello, I love you Let me jump in your game Hello, I love you Won't you tell me your name? Hello, I love you Let me jump in your game She's walking down the street Blind to every eye she meets Do you think you'll be the guy To make the queen of the angel...",
+        "title": "Hello, I Love You",
+        "artist": "The Doors",
+        "confidence": 0.30259793043499245,
+        "class_probabilities": {
+          "angry": 0.19019497698719137,
+          "happy": 0.26011722020824546,
+          "relaxed": 0.24708987236957067,
+          "sad": 0.30259793043499245
+        }
+      }
+    ],
+    "happy_as_angry": [
+      {
+        "lyrics_preview": "Well, East Coast girls are hip I really dig those styles they wear And the Southern girls with the way they talk They knock me out when I'm down there The Midwest farmers' daughters Really make you feel alright And the Northern girls with the way they kiss They keep their boyfriends warm at night I ...",
+        "title": "California Girls",
+        "artist": "The Beach Boys",
+        "confidence": 0.3625449896865551,
+        "class_probabilities": {
+          "angry": 0.3625449896865551,
+          "happy": 0.20186329673789413,
+          "relaxed": 0.1748772654618353,
+          "sad": 0.2607144481137156
+        }
+      },
+      {
+        "lyrics_preview": "Open up, a-honey, it's your lover boy me that's a-knockin' Why don't you listen to me, sugar? All the cats are at the high school rockin' Honey, get your boppin' shoes 'Fore the jukebox blow the fuse Everybody hoppin' Everybody's boppin' Boppin' at the high school hop They're boppin' at the high sch...",
+        "title": "High School Confidential",
+        "artist": "Jerry Lee Lewis",
+        "confidence": 0.34857467513437457,
+        "class_probabilities": {
+          "angry": 0.34857467513437457,
+          "happy": 0.17468204814095198,
+          "relaxed": 0.23368538763623065,
+          "sad": 0.24305788908844286
+        }
+      },
+      {
+        "lyrics_preview": "I went to a garden party to reminisce with my old friends A chance to share old memories and play our songs again When I got to the garden party, they all knew my name No one recognized me, I didn't look the same But it's all right now, I learned my lesson well You see, ya can't please everyone, so ...",
+        "title": "Garden Party",
+        "artist": "Rick Nelson",
+        "confidence": 0.2750215580859391,
+        "class_probabilities": {
+          "angry": 0.2750215580859391,
+          "happy": 0.19421875774253805,
+          "relaxed": 0.2713222823690813,
+          "sad": 0.2594374018024415
+        }
+      }
+    ],
+    "angry_as_happy": [
+      {
+        "lyrics_preview": "Woman, oh, woman Have you got cheating on your mind? On your mind Something's wrong between us That your laughter cannot hide And you're afraid to let your eyes meet mine And lately, when I love you I know you're not satisfied Woman, oh, woman Have you got cheating on your mind? On your mind I've se...",
+        "title": "Woman Woman",
+        "artist": "Gary Puckett & The Union Gap",
+        "confidence": 0.3185911091707657,
+        "class_probabilities": {
+          "angry": 0.1737683866579667,
+          "happy": 0.3185911091707657,
+          "relaxed": 0.3055691472953665,
+          "sad": 0.2020713568759012
+        }
+      }
+    ],
+    "angry_as_relaxed": [
+      {
+        "lyrics_preview": "Goodbye, cruel world Goodbye, cruel world Oh, goodbye, cruel world, I'm off to join the circus Gonna be a broken-hearted clown Ah Paint my face with a good-for-nothin' smile 'Cause a mean, fickle woman turned my whole world upside-down Goodbye, cruel world Farewell to love Yeah, yeah, yeah I'm off t...",
+        "title": "Goodbye Cruel World",
+        "artist": "James Darren",
+        "confidence": 0.31626783347680987,
+        "class_probabilities": {
+          "angry": 0.253749554488401,
+          "happy": 0.2490943348192551,
+          "relaxed": 0.31626783347680987,
+          "sad": 0.18088827721553402
+        }
+      },
+      {
+        "lyrics_preview": "I see that worried look upon your face You've got your troubles, I've got mine She's found somebody else to take your place; You've got your troubles, I've got mine I too have lost my love today All of my dreams have flown away Now just like you I sit and wonder why; You've got your troubles, I've g...",
+        "title": "You\u2019ve Got Your Troubles",
+        "artist": "The Fortunes",
+        "confidence": 0.2929665058732738,
+        "class_probabilities": {
+          "angry": 0.21447666923453093,
+          "happy": 0.24213032404624013,
+          "relaxed": 0.2929665058732738,
+          "sad": 0.250426500845955
+        }
+      }
+    ]
+  },
+  "hip-hop": {
+    "happy_as_relaxed": [
+      {
+        "lyrics_preview": "Yo, I don't think we should talk about this Come on, why not? People might misunderstand what we're tryin' to say, you know? No, but that's a part of life Come on Let's talk about sex, baby Let's talk about you and me Let's talk about all the good things And the bad things that may be Let's talk abo...",
+        "title": "Let's Talk About Sex",
+        "artist": "Salt-N-Pepa",
+        "confidence": 0.37955091720448336,
+        "class_probabilities": {
+          "angry": 0.20021420719532984,
+          "happy": 0.2028770511015469,
+          "relaxed": 0.37955091720448336,
+          "sad": 0.2173578244986399
+        }
+      },
+      {
+        "lyrics_preview": "Hey, yeah I wanna shoop, baby Shoop Ooh, how you doing, baby? Shoop No, not you, you Shoop The bow-legged one, haha, yeah, what\u2019s your name? Shoop Damn, baby, that sounds sexy, uh Shoop Here I go, here I go, here I go again Again Girls, what's my weakness? Men! Okay then Chilling, chilling, minding ...",
+        "title": "Shoop",
+        "artist": "Salt-N-Pepa",
+        "confidence": 0.33820999562832743,
+        "class_probabilities": {
+          "angry": 0.16916835539846925,
+          "happy": 0.32225930961286053,
+          "relaxed": 0.33820999562832743,
+          "sad": 0.17036233936034287
+        }
+      },
+      {
+        "lyrics_preview": "Boom, boom, boom Ha-ha! Ready for action, nip it in the bud We never relaxing, OutKast is everlasting Not clashing, not at all But, see, my nigga went to do a little acting Now, that's for anyone asking, give me one, pass 'em Drip-drip-drop\u2014there goes an eargasm Now you cumming out the side of your ...",
+        "title": "The Way You Move",
+        "artist": "OutKast & Sleepy Brown",
+        "confidence": 0.3298597579539232,
+        "class_probabilities": {
+          "angry": 0.18046513891078156,
+          "happy": 0.29283430223680074,
+          "relaxed": 0.3298597579539232,
+          "sad": 0.19684080089849448
+        }
+      }
+    ],
+    "relaxed_as_angry": [
+      {
+        "lyrics_preview": "We want Eazy Yeah, yeah Can y'all hear that? Yeah Can y'all hear that? Yeah Well, clap your hands then, come on Clap your hands, everybody Clap your hands, come on, come on Put your hands together and clap 'em Now can y'all say Eazy? Come on, say it Eazy Everybody, come on Eazy Who'd y'all come to s...",
+        "title": "We Want Eazy",
+        "artist": "Eazy-E & Dr. Dre & MC Ren",
+        "confidence": 0.31495929436838616,
+        "class_probabilities": {
+          "angry": 0.31495929436838616,
+          "happy": 0.253139431575962,
+          "relaxed": 0.1937217993568428,
+          "sad": 0.23817947469880896
+        }
+      },
+      {
+        "lyrics_preview": "Life I wonder Will it take me under? I don't know Imagine smokin' weed in the street without cops harassin' Imagine goin' to court with no trial Lifestyle, cruisin' blue Bahama waters No welfare supporters, more conscious of the way we raise our daughters Days are shorter, nights are colder Feelin' ...",
+        "title": "If I Ruled the World (Imagine That)",
+        "artist": "Nas & Lauryn Hill",
+        "confidence": 0.2815420789408836,
+        "class_probabilities": {
+          "angry": 0.2815420789408836,
+          "happy": 0.2661414549195574,
+          "relaxed": 0.25516559959309715,
+          "sad": 0.19715086654646172
+        }
+      }
+    ],
+    "angry_as_happy": [
+      {
+        "lyrics_preview": "Enviyon on the mix No, no, no, no No-no, no, no, no No, no, no, no, no No, no, no, no I still see your shadows in my room Can't take back the love that I gave you It's to the point where I love and I hate you And I cannot change you, so I must replace you, oh Easier said than done, I thought you wer...",
+        "title": "Lucid Dreams",
+        "artist": "Juice WRLD",
+        "confidence": 0.3812162172863118,
+        "class_probabilities": {
+          "angry": 0.242701372834,
+          "happy": 0.3812162172863118,
+          "relaxed": 0.186159537846715,
+          "sad": 0.18992287203297314
+        }
+      },
+      {
+        "lyrics_preview": "I fly like paper, get high like planes If you catch me at the border, I got visas in my name If you come around here, I make 'em all day I get one done in a second if you wait I fly like paper, get high like planes If you catch me at the border, I got visas in my name If you come around here, I make...",
+        "title": "Paper Planes",
+        "artist": "M.I.A.",
+        "confidence": 0.35643459241706055,
+        "class_probabilities": {
+          "angry": 0.25574238540212774,
+          "happy": 0.35643459241706055,
+          "relaxed": 0.18233710325524952,
+          "sad": 0.2054859189255622
+        }
+      },
+      {
+        "lyrics_preview": "One, two One, two, three, yeah! Inslumnational, underground Thunder pounds when I stomp the ground Woo! Like a million elephants or silverback orangutans You can't stop the train Who want some? Don't come unprepared I'll be there, but when I leave there Better be a household name Weatherman tellin' ...",
+        "title": "B.O.B.",
+        "artist": "OutKast",
+        "confidence": 0.3523885070419902,
+        "class_probabilities": {
+          "angry": 0.26531942182864193,
+          "happy": 0.3523885070419902,
+          "relaxed": 0.16631907852017055,
+          "sad": 0.21597299260919753
+        }
+      }
+    ],
+    "happy_as_sad": [
+      {
+        "lyrics_preview": "California love, we-ooh California knows how to party California knows how to party In the city of L.A. In the city of good ol' Watts In the city, city of Compton We keep it rockin', we keep it rockin' Ooh Now, let me welcome everybody to the Wild, Wild West A state that's untouchable like Eliot Nes...",
+        "title": "California Love",
+        "artist": "2Pac, Dr. Dre & Roger Troutman",
+        "confidence": 0.2837927195475353,
+        "class_probabilities": {
+          "angry": 0.26255970213993785,
+          "happy": 0.27854693024480487,
+          "relaxed": 0.17510064806772188,
+          "sad": 0.2837927195475353
+        }
+      }
+    ],
+    "happy_as_angry": [
+      {
+        "lyrics_preview": "Fuck bitches, get money What? Fuck niggas, get money Whoo! Fuck bitches, get money Fuck niggas, get money Fuck bitches, get money Fuck niggas, get money Uh, check it out, uh You wanna sip Mo' on my livin' room flo' Play Nintendo with Cease and Nino Pick up my phone say, Poppa not home Sex all night,...",
+        "title": "Get Money",
+        "artist": "Junior M.A.F.I.A.",
+        "confidence": 0.6028354434326083,
+        "class_probabilities": {
+          "angry": 0.6028354434326083,
+          "happy": 0.24015155767712054,
+          "relaxed": 0.06634296119417833,
+          "sad": 0.09067003769609286
+        }
+      },
+      {
+        "lyrics_preview": "I'm the fuckin' man, y'all don't get it, do ya? Type of money, everybody acting like they knew ya Go Uptown, New York City, bitch Them Spanish girls love me like I'm Aventura Tell Uncle Luke I'm out in Miami too Clubbin' hard, fuckin' women, there ain't much to do Wrist bling, got a condo up on Bisc...",
+        "title": "The Motto",
+        "artist": "Drake & Lil Wayne",
+        "confidence": 0.5204080682060166,
+        "class_probabilities": {
+          "angry": 0.5204080682060166,
+          "happy": 0.21340869080552252,
+          "relaxed": 0.15003333402596417,
+          "sad": 0.1161499069624967
+        }
+      },
+      {
+        "lyrics_preview": "Ayy, new freezer New freezer, New freezer You know what it was when you signed up, ayy Dat way, yuh, yuh, yeah, dat way My bitch too foreign, need a visa Ooh I don't need her Huh? Pull up drop top with a eater Skrrt Two seater Skrrt New bitch wanna fuck to my AP AP, ice New freezer Ice I woke up thi...",
+        "title": "New Freezer",
+        "artist": "Rich the Kid & Kendrick Lamar",
+        "confidence": 0.42909835145689573,
+        "class_probabilities": {
+          "angry": 0.42909835145689573,
+          "happy": 0.20546657862089454,
+          "relaxed": 0.16031663402576948,
+          "sad": 0.20511843589644024
+        }
+      }
+    ],
+    "angry_as_sad": [
+      {
+        "lyrics_preview": "Oh my god Oh my god Boo Uh, uh, yo, uh Microphone checka, swingin' sword lecture Closin' down the sector, supreme neck protector Better warn 'em, kid, Mr. Meth's a boiling pot 'Bout to blow his lid from the pressure, too hot for TV For sheezy, too many wanna be hard, be easy It's all N'together, goi...",
+        "title": "Da Rockwilder",
+        "artist": "Method Man & Redman",
+        "confidence": 0.3549047982863105,
+        "class_probabilities": {
+          "angry": 0.3534109690739522,
+          "happy": 0.18656269552482896,
+          "relaxed": 0.10512153711490844,
+          "sad": 0.3549047982863105
+        }
+      },
+      {
+        "lyrics_preview": "I'm talkin to these motherfuckers Yea, ok Yea, ooh, ooh This one's a vivrant thing LB, G.I. one fam, oh my Bounce with me now Bink, Dawg, hot I'm talkin, this gone be somethin now Mr. Cheeks, whoo I'm talkin lights, camera, action Ohhhh Kay Get down now Bink Dawg now, One Shot Deal shit Yea, ok Now ...",
+        "title": "Lights, Camera, Action!",
+        "artist": "Mr. Cheeks",
+        "confidence": 0.35088682341544447,
+        "class_probabilities": {
+          "angry": 0.27550159143661823,
+          "happy": 0.22514346917943373,
+          "relaxed": 0.14846811596850346,
+          "sad": 0.35088682341544447
+        }
+      }
+    ],
+    "sad_as_angry": [
+      {
+        "lyrics_preview": "Weezy, Weezy, Weezy, Weezy Weezy, Weezy, Weezy, Weezy I see, thank you man, thank you Y'all know his name Ayo, Mack, let the beat drop Ladies and gentlemen, C5, Wayne time Yeah, yeah, yeah Zone, zone, zone, zone, zone Let me see your shoulders work I mean, I don't know what y'all came here to do, bu...",
+        "title": "Uproar",
+        "artist": "Lil Wayne & Swizz Beatz",
+        "confidence": 0.3902193134248715,
+        "class_probabilities": {
+          "angry": 0.3902193134248715,
+          "happy": 0.23431964009777803,
+          "relaxed": 0.16970633511517877,
+          "sad": 0.2057547113621718
+        }
+      },
+      {
+        "lyrics_preview": "One, two, three and to the four Snoop Doggy Dogg and Dr. Dre is at the door Ready to make an entrance so back on up 'Cause you know we're 'bout to rip shit up Give me the microphone first, so I can bust like a bubble Compton and Long Beach together, now you know you in trouble Ain't nothin' but a G ...",
+        "title": "Nuthin' But a G Thang",
+        "artist": "Dr. Dre ft. Snoop Doggy Dogg",
+        "confidence": 0.3773412826448371,
+        "class_probabilities": {
+          "angry": 0.3773412826448371,
+          "happy": 0.23463553262633557,
+          "relaxed": 0.2529522131049662,
+          "sad": 0.13507097162386106
+        }
+      },
+      {
+        "lyrics_preview": "Yo, I go by the name I'm yo' pusha Of Pharrell, from The Neptunes And I just wanna let y'all know I'm yo' pusha The world is about to feel something I'm yo pusha That they've never felt before, c'mon From ghetto to ghetto, to backyard to yard I sell it whipped or un-whipped, it\u2019s soft or hard I'm th...",
+        "title": "Grindin'",
+        "artist": "Clipse",
+        "confidence": 0.37545579225112125,
+        "class_probabilities": {
+          "angry": 0.37545579225112125,
+          "happy": 0.2179101689051427,
+          "relaxed": 0.16954103972687068,
+          "sad": 0.2370929991168655
+        }
+      }
+    ],
+    "sad_as_happy": [
+      {
+        "lyrics_preview": "Ooh, yeah Ooh Come on, come on I see no changes, wake up in the morning and I ask myself Is life worth livin'? Should I blast myself? I'm tired of bein' poor and, even worse, I'm black My stomach hurts so I'm lookin' for a purse to snatch Cops give a damn about a negro Pull the trigger, kill a nigga...",
+        "title": "Changes",
+        "artist": "2Pac & Talent",
+        "confidence": 0.3058835031809115,
+        "class_probabilities": {
+          "angry": 0.24600845973526414,
+          "happy": 0.3058835031809115,
+          "relaxed": 0.18919541075408974,
+          "sad": 0.25891262632973444
+        }
+      }
+    ],
+    "relaxed_as_happy": [
+      {
+        "lyrics_preview": "You're all that I need, I'll be there for you If you keep it real with me, I'll keep it real with you Loving your whole steez, it be in there boo On top of that you got the good Power-U Shorty I'm there for you anytime you need me For real girl, it's me in your world, believe me Nothing make a man f...",
+        "title": "All I Need",
+        "artist": "Method Man",
+        "confidence": 0.44954587861706735,
+        "class_probabilities": {
+          "angry": 0.2429086235541534,
+          "happy": 0.44954587861706735,
+          "relaxed": 0.1976894219489433,
+          "sad": 0.10985607587983606
+        }
+      },
+      {
+        "lyrics_preview": "One, two, three, uh My baby don't mess around Because she loves me so, and this I know for sure Uh But does she really wanna But can't stand to see me walk out the door? Ah Don't try to fight the feeling 'Cause the thought alone is killing me right now Uh Thank God for Mom and Dad For sticking two t...",
+        "title": "Hey Ya!",
+        "artist": "OutKast",
+        "confidence": 0.37531668938862084,
+        "class_probabilities": {
+          "angry": 0.14037500400727596,
+          "happy": 0.37531668938862084,
+          "relaxed": 0.184807376608088,
+          "sad": 0.2995009299960152
+        }
+      },
+      {
+        "lyrics_preview": "Baby girl I really like Desert Storm yeah I can't really explain it I'm so into you now, I want to be more than a friend of you now When they ask, I mention my baby girl in the interviews now And I don't bring the problems from the '90s into 2 thou' There's no reason to have a friend or two now 'Cau...",
+        "title": "Into You",
+        "artist": "Fabolous & Ashanti",
+        "confidence": 0.3035940301969447,
+        "class_probabilities": {
+          "angry": 0.22536438352838467,
+          "happy": 0.3035940301969447,
+          "relaxed": 0.24638076614695237,
+          "sad": 0.2246608201277181
+        }
+      }
+    ],
+    "sad_as_relaxed": [
+      {
+        "lyrics_preview": "Uh, uh, uh Yeah Vita Ja Rule, uh, uh, uh Where would I be without you? Ha-ha Yeah What would I be without my baby? The thought alone might break me And I don't wanna go crazy But every thug needs a lady Girl, it feel like you and I been mourning together Inseparable, we chose pain over pleasure For ...",
+        "title": "Put It on Me",
+        "artist": "Ja Rule & Vita",
+        "confidence": 0.36112139076699445,
+        "class_probabilities": {
+          "angry": 0.1827080987707435,
+          "happy": 0.28467151956052483,
+          "relaxed": 0.36112139076699445,
+          "sad": 0.17149899090173712
+        }
+      },
+      {
+        "lyrics_preview": "That's the shit I'm talking 'bout though, like you changed up, you don't even fuckin' link nobody no more, you just dash me away like a cyattie. Yo, you cheesed me dog Always felt like my vision been bigger than the bigger picture Crazy how you gotta wait until it's dark out to see who really with y...",
+        "title": "How Bout Now",
+        "artist": "Drake",
+        "confidence": 0.3086848702069622,
+        "class_probabilities": {
+          "angry": 0.27526542818168553,
+          "happy": 0.25502595117644394,
+          "relaxed": 0.3086848702069622,
+          "sad": 0.16102375043490835
+        }
+      },
+      {
+        "lyrics_preview": "All aboard for the night train I throw my tape on then, I watch ya Three seconds later, I got ya Shakin' your head, dancin' instead of sittin' The rhymes kick, the beats hittin' you Just like a home run, slammin' like a slam dunk Riding the wave that James Brown gave funk It happened to James like i...",
+        "title": "How Ya Like Me Now",
+        "artist": "Kool Moe Dee",
+        "confidence": 0.30405639307658805,
+        "class_probabilities": {
+          "angry": 0.2800623999983447,
+          "happy": 0.24609621626175215,
+          "relaxed": 0.30405639307658805,
+          "sad": 0.16978499066331515
+        }
+      }
+    ],
+    "angry_as_relaxed": [
+      {
+        "lyrics_preview": "It's just me against the world Nothin' to lose It's just me against the world, baby I got nothin' to lose It's just me against the world Stuck in the game Me against the world, baby Can you picture my prophecy? Stress in the city, the cops is hot for me The projects is full of bullets though bodies ...",
+        "title": "Me Against the World",
+        "artist": "2Pac & Dramacydal",
+        "confidence": 0.3066570563026141,
+        "class_probabilities": {
+          "angry": 0.2743869528402276,
+          "happy": 0.2539665205124636,
+          "relaxed": 0.3066570563026141,
+          "sad": 0.16498947034469472
+        }
+      }
+    ]
+  },
+  "hard-rock": {
+    "sad_as_angry": [
+      {
+        "lyrics_preview": "You pray for quiet But inside your head The screams won't silence I remember those days The terror that's the home The fear that's in your bones It just won't go away, no The strangleholds The insulting names The wound-up shirt around his fist The nose-to-nose, beer-stinking breath Thrown down onto ...",
+        "title": "Hush",
+        "artist": "Hellyeah",
+        "confidence": 0.3648635518220931,
+        "class_probabilities": {
+          "angry": 0.3648635518220931,
+          "happy": 0.12264709633348982,
+          "relaxed": 0.21333874706241956,
+          "sad": 0.2991506047819975
+        }
+      },
+      {
+        "lyrics_preview": "I've told you this once before: Can't control me If you try to take me down You're gonna break I feel your every nothing That you're doin' for me I'm thinking you oughta Make your own way I stand alone Inside I stand alone Stand alone, stand alone... You're always hiding behind Your so-called goddes...",
+        "title": "I Stand Alone",
+        "artist": "Godsmack",
+        "confidence": 0.34987976901668444,
+        "class_probabilities": {
+          "angry": 0.34987976901668444,
+          "happy": 0.17413601389029967,
+          "relaxed": 0.170802430493878,
+          "sad": 0.30518178659913797
+        }
+      },
+      {
+        "lyrics_preview": "Oh, hit it boys Well, I've said it before, and I'll say it again You get nothing for nothing: expect it when You're backseat driving, and your hands ain't on the wheel It's easy to go along with the crowd And find later on that your say ain't allowed Oh, that's the way to find what you've been missi...",
+        "title": "Heading Out To The Highway",
+        "artist": "Judas Priest",
+        "confidence": 0.344523480701665,
+        "class_probabilities": {
+          "angry": 0.344523480701665,
+          "happy": 0.1915054631407679,
+          "relaxed": 0.15971854386149323,
+          "sad": 0.3042525122960738
+        }
+      }
+    ],
+    "angry_as_sad": [
+      {
+        "lyrics_preview": "Hey! Hey! Hey! It\u2019s 8 A.M This hell I\u2019m in Seems I\u2019ve crossed the line again For being nothing more than who I am So break my bones And throw your stones We all know that life ain\u2019t fair But there is more of us We\u2019re everywhere We don\u2019t have to take this Back against the wall We don\u2019t have to take t...",
+        "title": "Bully",
+        "artist": "Shinedown",
+        "confidence": 0.38079542375239045,
+        "class_probabilities": {
+          "angry": 0.2549944963721227,
+          "happy": 0.13779088856426971,
+          "relaxed": 0.22641919131121713,
+          "sad": 0.38079542375239045
+        }
+      },
+      {
+        "lyrics_preview": "This world can\u2019t hold us, you can\u2019t mess with soldiers There\u2019s no cell big enough to hold us We came to be a wrecking ball to these boulders Know this, I ain\u2019t scared of these cobras Over time, they\u2019ve tried to just fold us They thought they could mess with this focus But there\u2019s no room for these l...",
+        "title": "Push",
+        "artist": "Thousand Foot Krutch",
+        "confidence": 0.3434461080738074,
+        "class_probabilities": {
+          "angry": 0.2821114502972856,
+          "happy": 0.21487937240161067,
+          "relaxed": 0.15956306922729632,
+          "sad": 0.3434461080738074
+        }
+      },
+      {
+        "lyrics_preview": "Oh, I'll never kill myself to save my soul I was gone, but how was I to know? I didn't come this far to sink so low I'm finally holding on to letting go I'll never kill myself to save my soul I'm finally holding on to letting go I didn't come this far to sink so low I'm finally holding on to letting...",
+        "title": "Unsainted",
+        "artist": "Slipknot",
+        "confidence": 0.3427980237501947,
+        "class_probabilities": {
+          "angry": 0.28441304775827864,
+          "happy": 0.14963107117930563,
+          "relaxed": 0.22315785731222096,
+          "sad": 0.3427980237501947
+        }
+      }
+    ],
+    "angry_as_happy": [
+      {
+        "lyrics_preview": "Yeah Yeah Ooh, yeah, yeah Yeah Riot on the radio Pictures on the TV Invader man take what he can Shoot-out on the silver screen Stickin' 'em up and knockin' 'em down Livin' out a fantasy There's a bad man cruisin' around In a big black limousine Don't let it be wrong, don't let it be right Get in hi...",
+        "title": "Big Gun",
+        "artist": "AC/DC",
+        "confidence": 0.4412740195904097,
+        "class_probabilities": {
+          "angry": 0.21864123683263312,
+          "happy": 0.4412740195904097,
+          "relaxed": 0.11256207215623773,
+          "sad": 0.22752267142071955
+        }
+      },
+      {
+        "lyrics_preview": "You can look to the left and look to the right But you will live in danger tonight When the enemy comes, he will never be heard He'll blow your mind and not say a word Blinding lights Flashing colours Sleepless nights If the man with the power can't keep it under control Some heads are gonna roll So...",
+        "title": "Some Heads Are Gonna Roll",
+        "artist": "Judas Priest",
+        "confidence": 0.32894402226695046,
+        "class_probabilities": {
+          "angry": 0.3079064644653998,
+          "happy": 0.32894402226695046,
+          "relaxed": 0.15911031288624727,
+          "sad": 0.2040392003814024
+        }
+      },
+      {
+        "lyrics_preview": "Dressed to kill and lookin' dynamite With her high-laced stockings and her sweater so tight I asked her her name, she said her name was Maybe. Well she walked up to me, and she asked me to chance I said, I am lookin' for some wild romance, She gave me a wink--she said I should think about it, maybe ...",
+        "title": "Coming Of Age",
+        "artist": "Damn Yankees",
+        "confidence": 0.27715836002522964,
+        "class_probabilities": {
+          "angry": 0.2341846301453542,
+          "happy": 0.27715836002522964,
+          "relaxed": 0.2368534171759183,
+          "sad": 0.25180359265349783
+        }
+      }
+    ],
+    "happy_as_relaxed": [
+      {
+        "lyrics_preview": "Oh yeah Some people say my love cannot be true Please believe me, my love, and I'll show you I will give you those things you thought unreal The sun, the moon, the stars, all bear my seal Oh yeah Follow me now, and you will not regret Leaving the life you led before we met You are the first to have ...",
+        "title": "N.I.B.",
+        "artist": "Black Sabbath",
+        "confidence": 0.36450731127885105,
+        "class_probabilities": {
+          "angry": 0.16524102812404687,
+          "happy": 0.29558066232303876,
+          "relaxed": 0.36450731127885105,
+          "sad": 0.17467099827406324
+        }
+      },
+      {
+        "lyrics_preview": "Mother Tell your children not to walk my way Tell your children not to hear my words What they mean, what they say, mother Mother Can you keep them in the dark for life? Can you hide them from the waiting world? Oh mother Father Gonna take your daughter out tonight Gonna show her my world Oh, father...",
+        "title": "Mother",
+        "artist": "Danzig",
+        "confidence": 0.35459103146214,
+        "class_probabilities": {
+          "angry": 0.24223217966031346,
+          "happy": 0.20582125326692322,
+          "relaxed": 0.35459103146214,
+          "sad": 0.19735553561062322
+        }
+      },
+      {
+        "lyrics_preview": "When did we become these sinking stones? When did we build this broken home? Holding each other like ransom notes Dropping our hearts to grip our brothers' throats You can't see because you don't know You're caught below beneath your own shadow Stuck inside, half alive Do you ever stop to ask yourse...",
+        "title": "This Is The Time (Ballast)",
+        "artist": "Nothing More",
+        "confidence": 0.3282569237197364,
+        "class_probabilities": {
+          "angry": 0.19898193830349972,
+          "happy": 0.15377277542904522,
+          "relaxed": 0.3282569237197364,
+          "sad": 0.31898836254771873
+        }
+      }
+    ],
+    "relaxed_as_sad": [
+      {
+        "lyrics_preview": "Times have changed and times are strange Here I come, but I ain't the same Mama, I'm coming home Times go by, it seems to be You could have been a better friend to me Mama, I'm coming home You took me in and you drove me out, yeah You had me hypnotised, yeah Lost and found and turned around By the f...",
+        "title": "Mama I'm Coming Home",
+        "artist": "Ozzy Osbourne",
+        "confidence": 0.3863494250270556,
+        "class_probabilities": {
+          "angry": 0.1755560852035105,
+          "happy": 0.14483093408754785,
+          "relaxed": 0.29326355568188617,
+          "sad": 0.3863494250270556
+        }
+      },
+      {
+        "lyrics_preview": "Got a picture of your house And you're standin' by the door It's black and white and faded And it's lookin' pretty worn See the factory that I worked Silhouetted in the back Memories are gray But man, they're really coming back I don't need to be the king of the world As long as I'm the hero of this...",
+        "title": "Heaven",
+        "artist": "Warrant",
+        "confidence": 0.3832659395410594,
+        "class_probabilities": {
+          "angry": 0.15848983014920723,
+          "happy": 0.24183168484676001,
+          "relaxed": 0.2164125454629733,
+          "sad": 0.3832659395410594
+        }
+      },
+      {
+        "lyrics_preview": "It ain't easy livin' like a gypsy Tell you, honey, how I feel I been dreamin', floatin' down stream, and Losin' touch with all that's real Whole earth lover, keepin' undercover Never knowin' where you've been You've been fadin', always out paradin' Keep in touch with Mama Kin Well, you've always got...",
+        "title": "Mama Kin",
+        "artist": "Aerosmith",
+        "confidence": 0.3737953901587843,
+        "class_probabilities": {
+          "angry": 0.2483784600600837,
+          "happy": 0.19602369087829047,
+          "relaxed": 0.18180245890284144,
+          "sad": 0.3737953901587843
+        }
+      }
+    ],
+    "happy_as_angry": [
+      {
+        "lyrics_preview": "Ha, ha, ha I see your faces and I do not understand why Each time I dream, you're standing there right by my side Why do you make me? You take my pride and in my eyes You come and rape me inside I have no place to run and hide I have no place to hide, which I like Some who look at the time, I looked...",
+        "title": "No Place To Hide",
+        "artist": "Korn",
+        "confidence": 0.38446543935353367,
+        "class_probabilities": {
+          "angry": 0.38446543935353367,
+          "happy": 0.15434891106270704,
+          "relaxed": 0.2438448783139511,
+          "sad": 0.21734077126980814
+        }
+      },
+      {
+        "lyrics_preview": "Are you ready? Get up, get up Get up, get up Get up, get up Get up, get up Get up, get up Get up, get up Well, are you ready now for the revolution? For too long your power has been taken away, it's been taken away Does your heart feel heavy now? Savor the solution Take those mental shackles off and...",
+        "title": "Are You Ready",
+        "artist": "Disturbed",
+        "confidence": 0.37557424778582693,
+        "class_probabilities": {
+          "angry": 0.37557424778582693,
+          "happy": 0.1988389396709185,
+          "relaxed": 0.18751145876346187,
+          "sad": 0.23807535377979286
+        }
+      },
+      {
+        "lyrics_preview": "Hey you, hey you, Devil's little sister Listening to your twisted transistor Hold it between your legs Turn it up, turn it up Low end is coming through Can't get enough A lonely life where no one understands you But don't give up because the music do Music do, music do Music do, music do Music do, m...",
+        "title": "Twisted Transistor",
+        "artist": "Korn",
+        "confidence": 0.34841687114016645,
+        "class_probabilities": {
+          "angry": 0.34841687114016645,
+          "happy": 0.21242160022825116,
+          "relaxed": 0.1677351525538786,
+          "sad": 0.27142637607770365
+        }
+      }
+    ],
+    "sad_as_relaxed": [
+      {
+        "lyrics_preview": "When I open my eyes and see the lines that live on the life I left behind I feel disconnected from the place that I call home When I try to rewind, I can't design a way to go back to that place and time I remember that moment that changed everything I know Cut up into pieces, looking for a reason Wh...",
+        "title": "Lifelines",
+        "artist": "I Prevail",
+        "confidence": 0.34502529220302036,
+        "class_probabilities": {
+          "angry": 0.21459667503279328,
+          "happy": 0.15662555488847166,
+          "relaxed": 0.34502529220302036,
+          "sad": 0.2837524778757148
+        }
+      },
+      {
+        "lyrics_preview": "Ooh Oh, yeah Uh-huh, ah! Jump back, what's that sound? Here she comes, full blast and top down Hot shoe, burning down the avenue Model citizen, zero discipline Don't you know she's coming home to me? You'll lose her in the turn I'll get her, ah! Panama Panama Panama Panama Ain't nothin' like it, her...",
+        "title": "Panama",
+        "artist": "Van Halen",
+        "confidence": 0.29978909384705965,
+        "class_probabilities": {
+          "angry": 0.23353664678426445,
+          "happy": 0.2365300268258263,
+          "relaxed": 0.29978909384705965,
+          "sad": 0.23014423254284966
+        }
+      }
+    ],
+    "angry_as_relaxed": [
+      {
+        "lyrics_preview": "Ah-ah, ah-ah-ah Ah-ah, ah-ah-ah Ah-ah, ah-ah-ah Ah-ah, ah-ah-ah Ah-ah, ah-ah-ah Ah-ah, ah-ah-ah Ah-ah, ah-ah-ah Thunder, ah-ah, ah-ah-ah Thunder, ah-ah, ah-ah-ah Thunder, ah-ah, ah-ah-ah Thunder, ah-ah, ah-ah-ah Thunder, ah-ah, ah-ah-ah Thunder, ah-ah, ah-ah-ah Thunder Thunder Thunder Thunder I was ...",
+        "title": "Thunderstruck",
+        "artist": "AC/DC",
+        "confidence": 0.3548716195326177,
+        "class_probabilities": {
+          "angry": 0.21069794554808927,
+          "happy": 0.2637342893115294,
+          "relaxed": 0.3548716195326177,
+          "sad": 0.17069614560776364
+        }
+      },
+      {
+        "lyrics_preview": "My mother was a witch, she was burned alive Thankless little bitch, for the tears I cried Take her down now, don't wanna see her face All blistered and burnt, can't hide my disgrace Twenty-seven, everyone was nice Gotta see them, make them pay the price See their bodies out on the ice Take my time A...",
+        "title": "Am I Evil?",
+        "artist": "Metallica",
+        "confidence": 0.35203604558323337,
+        "class_probabilities": {
+          "angry": 0.2474920776248349,
+          "happy": 0.16315439295968595,
+          "relaxed": 0.35203604558323337,
+          "sad": 0.23731748383224582
+        }
+      }
+    ],
+    "relaxed_as_angry": [
+      {
+        "lyrics_preview": "I see your sister in her Sunday dress She's out to please, she pouts her best She's out to take, no need to try She's ready to make It's so easy, easy When everybody's tryin' to please me, baby It's so easy, easy When everybody's tryin' to please me Cars are crashin' every night I drink and drive, e...",
+        "title": "It's So Easy",
+        "artist": "Guns N' Roses",
+        "confidence": 0.34306591351960963,
+        "class_probabilities": {
+          "angry": 0.34306591351960963,
+          "happy": 0.16684668276434522,
+          "relaxed": 0.21407439337180328,
+          "sad": 0.2760130103442419
+        }
+      },
+      {
+        "lyrics_preview": "I'm a wheel, I'm a wheel I can roll, I can feel And you can't stop me turning 'Cause I'm the sun, I'm the sun I can move, I can run But you'll never stop me burning Come down with fire Lift my spirit higher Someone's screaming my name Come and make me holy again I'm the man on the silver mountain I'...",
+        "title": "Man On The Silver Mountain",
+        "artist": "Rainbow",
+        "confidence": 0.32569261521700255,
+        "class_probabilities": {
+          "angry": 0.32569261521700255,
+          "happy": 0.24773370861092525,
+          "relaxed": 0.21796587129629846,
+          "sad": 0.2086078048757737
+        }
+      },
+      {
+        "lyrics_preview": "Dedicate one to the ladies Now summertime's here, babe, need somethin' to keep you cool Ah, now summertime's here, babe, need somethin' to keep you cool Better look out now though, Dave's got somethin' for you Tell ya what it is I'm your ice cream man, stop me when I'm passin' by Oh, my, my, I'm you...",
+        "title": "Ice Cream Man",
+        "artist": "(RIP Eddie) Van Halen",
+        "confidence": 0.3245671168017338,
+        "class_probabilities": {
+          "angry": 0.3245671168017338,
+          "happy": 0.2151902082162692,
+          "relaxed": 0.22346855941006363,
+          "sad": 0.23677411557193337
+        }
+      }
+    ],
+    "happy_as_sad": [
+      {
+        "lyrics_preview": "People look to me and say Is the end near? When is the final day? What's the future of mankind? How do I know? I got left behind Everyone goes through changes Looking to find the truth Don't look to me for answers Don't ask me, I don't know Know, know, know, know How am I supposed to know Hidden mea...",
+        "title": "I Don't Know",
+        "artist": "Ozzy Osbourne",
+        "confidence": 0.3600158535579372,
+        "class_probabilities": {
+          "angry": 0.24260154101543732,
+          "happy": 0.1334605659056433,
+          "relaxed": 0.2639220395209822,
+          "sad": 0.3600158535579372
+        }
+      },
+      {
+        "lyrics_preview": "S-P-I-R-I-T, spirit Let's hear it S-P-I-R-I-T, spirit Let's hear it, let's go! I've had enough There's a voice in my head, says I'm better off dead But if I sing along a little fucking louder To a happy song, I'll be alright You want to give up Gave it all that you've got and it still doesn't cut Bu...",
+        "title": "Happy Song",
+        "artist": "Bring Me The Horizon",
+        "confidence": 0.3312063814595118,
+        "class_probabilities": {
+          "angry": 0.23838676280795199,
+          "happy": 0.25578922298171103,
+          "relaxed": 0.1746176327508252,
+          "sad": 0.3312063814595118
+        }
+      },
+      {
+        "lyrics_preview": "Ooh, yeah M-m-m-m-m-m-mow Yeah When I get high, I get high on speed Top Fuel funny car's a drug for me My heart, my heart Kickstart my heart Always got the cops coming after me Custom-built bike doing 103 My heart, my heart Kickstart my heart Ooh, are you ready, girls? Ooh, well, are you ready now? ...",
+        "title": "Kickstart My Heart",
+        "artist": "Motley Cr\u00fce",
+        "confidence": 0.298875212913688,
+        "class_probabilities": {
+          "angry": 0.21138988441441448,
+          "happy": 0.2003199697649321,
+          "relaxed": 0.28941493290696546,
+          "sad": 0.298875212913688
+        }
+      }
+    ],
+    "relaxed_as_happy": [
+      {
+        "lyrics_preview": "I wake in the night To find you on my mind Deep in a dream you'll always be Till the end of time I look in your eyes they touch my soul My love is hard to hide I'm never alone when we're apart I feel you by my side And here in my heart Where no one else will ever be I know who you are So lock the do...",
+        "title": "Save Your Love",
+        "artist": "Great White",
+        "confidence": 0.47825569363526804,
+        "class_probabilities": {
+          "angry": 0.1270262507142588,
+          "happy": 0.47825569363526804,
+          "relaxed": 0.21671004603573088,
+          "sad": 0.17800800961474234
+        }
+      },
+      {
+        "lyrics_preview": "In my dreams It's still the same Your love is strong It still remains Uh! Toss and turn all night In the sheets But I can't sleep Night after night Don't know what it means In my dreams What can I say or do? You won't come back We're through I've realized too late That, baby, your love has turned aw...",
+        "title": "In My Dreams",
+        "artist": "Dokken",
+        "confidence": 0.34126873915540096,
+        "class_probabilities": {
+          "angry": 0.22030089239878287,
+          "happy": 0.34126873915540096,
+          "relaxed": 0.1494051373506139,
+          "sad": 0.2890252310952022
+        }
+      }
+    ]
+  },
+  "country": {
+    "relaxed_as_sad": [
+      {
+        "lyrics_preview": "There's a for sale sign on a big old rusty tractor You can't miss it, It's the first thing that you see Just up the road, a pale blue water tower With I Love Jenny painted in bright green Hey that's my Uncle Bill there by the courthouse He'll be lowering the flag when the sun goes down And this is m...",
+        "title": "My Town",
+        "artist": "Montgomery Gentry",
+        "confidence": 0.469185332849102,
+        "class_probabilities": {
+          "angry": 0.2859012476227637,
+          "happy": 0.11183065893282795,
+          "relaxed": 0.1330827605953064,
+          "sad": 0.469185332849102
+        }
+      },
+      {
+        "lyrics_preview": "I've been up to my neck working six days a week Wearing holes in the soles of the shoes on my feet Been dreaming of gettin' away since I don't know Ain't no better time than now for Mexico No shoes, no shirt and no problems Blues, what blues? Hey, I forgot 'em The sun and the sand and a drink in my ...",
+        "title": "No Shoes, No Shirt, No Problems",
+        "artist": "Kenny Chesney",
+        "confidence": 0.35487616280082995,
+        "class_probabilities": {
+          "angry": 0.24282806422936956,
+          "happy": 0.17319526903967258,
+          "relaxed": 0.22910050393012782,
+          "sad": 0.35487616280082995
+        }
+      },
+      {
+        "lyrics_preview": "Riding on the City of New Orleans Illinois Central, Monday morning rail Fifteen cars and fifteen restless riders Three conductors and twenty-five sacks of mail All along the southbound odyssey, the train pulls out of Kankakee And rolls along past houses farms and fields Passing trains that have no n...",
+        "title": "City of New Orleans",
+        "artist": "Willie Nelson",
+        "confidence": 0.3520578969924122,
+        "class_probabilities": {
+          "angry": 0.20862608013072878,
+          "happy": 0.1931698490230085,
+          "relaxed": 0.24614617385385046,
+          "sad": 0.3520578969924122
+        }
+      }
+    ],
+    "sad_as_relaxed": [
+      {
+        "lyrics_preview": "Livin' my life in a slow hell Different girl every night at the hotel I ain't seen the sunshine in three damn days Been fuelin' up on cocaine and whiskey Wish I had a good girl to miss me Lord, I wonder if I'll ever change my ways I put your picture away Sat down and cried today I can't look at you ...",
+        "title": "Picture",
+        "artist": "Kid Rock & Sheryl Crow",
+        "confidence": 0.37856975649047736,
+        "class_probabilities": {
+          "angry": 0.165755038975914,
+          "happy": 0.1902285449798032,
+          "relaxed": 0.37856975649047736,
+          "sad": 0.2654466595538053
+        }
+      },
+      {
+        "lyrics_preview": "I never saw the end in sight Fools are kind of blind Thought everything was going alright But I was running out of time 'Cause you had one foot out the door I swear I didn't see But if you're really going away Here's some final words from me Baby, write this down, take a little note To remind you in...",
+        "title": "Write This Down",
+        "artist": "George Strait",
+        "confidence": 0.3654517364277664,
+        "class_probabilities": {
+          "angry": 0.20267171221756333,
+          "happy": 0.1938643313407907,
+          "relaxed": 0.3654517364277664,
+          "sad": 0.2380122200138796
+        }
+      },
+      {
+        "lyrics_preview": "Well way down yonder on the Chattahoochee It gets hotter than a hoochie coochie We laid rubber on the Georgia asphalt We got a little crazy but we never got caught Down by the river on a Friday night A pyramid of cans in the pale moonlight Talkin' about cars and dreamin' about women Never had a plan...",
+        "title": "Chattahoochee",
+        "artist": "Alan Jackson",
+        "confidence": 0.3522102461315867,
+        "class_probabilities": {
+          "angry": 0.22191122181693246,
+          "happy": 0.23020780069642943,
+          "relaxed": 0.3522102461315867,
+          "sad": 0.19567073135505142
+        }
+      }
+    ],
+    "happy_as_relaxed": [
+      {
+        "lyrics_preview": "If I should stay I would only be in your way So I'll go, but I know I'll think of you each step of the way And I will always love you I will always love you Bittersweet memories That's all I am taking with me Goodbye, please don't cry We both know that I'm not what you need But I will always love yo...",
+        "title": "I Will Always Love You",
+        "artist": "Dolly Parton",
+        "confidence": 0.43394721555601456,
+        "class_probabilities": {
+          "angry": 0.10644599931002036,
+          "happy": 0.3356388640941154,
+          "relaxed": 0.43394721555601456,
+          "sad": 0.12396792103984965
+        }
+      },
+      {
+        "lyrics_preview": "Remember when I was young and so were you And time stood still and love was all we knew You were the first, so was I We made love and then you cried Remember when Remember when We vowed the vows and walked the walk Gave our hearts, made the start, and it was hard We lived and learned, life threw cur...",
+        "title": "Remember When",
+        "artist": "Alan Jackson",
+        "confidence": 0.37430806207177814,
+        "class_probabilities": {
+          "angry": 0.23765157073232637,
+          "happy": 0.23011601511652346,
+          "relaxed": 0.37430806207177814,
+          "sad": 0.1579243520793719
+        }
+      },
+      {
+        "lyrics_preview": "Out of all of the places in this little town Yeah, you had to come walking in here and sit down I'm hiding and hoping my face ain't too red Since we been over, been trying like crazy To get you out of my head So why you wanna Show up in a old t-shirt that I love? Why you gotta tell me that I'm looki...",
+        "title": "Why Ya Wanna",
+        "artist": "Jana Kramer",
+        "confidence": 0.32525438132097134,
+        "class_probabilities": {
+          "angry": 0.19153095053799546,
+          "happy": 0.28983315562665635,
+          "relaxed": 0.32525438132097134,
+          "sad": 0.19338151251437702
+        }
+      }
+    ],
+    "sad_as_happy": [
+      {
+        "lyrics_preview": "Blame it all on my roots, I showed up in boots And ruined your black-tie affair The last one to know, the last one to show I was the last one you thought you'd see there And I saw the surprise and the fear in his eyes When I took his glass of champagne And I toasted you, said, Honey, we may be throu...",
+        "title": "Friends in Low Places",
+        "artist": "Garth Brooks",
+        "confidence": 0.34721154054618264,
+        "class_probabilities": {
+          "angry": 0.22607978107878637,
+          "happy": 0.34721154054618264,
+          "relaxed": 0.24763162903445826,
+          "sad": 0.1790770493405726
+        }
+      },
+      {
+        "lyrics_preview": "My baby makes me proud Lord, don't she make me proud She never makes a scene By hangin' all over me in a crowd 'Cause people like to talk Lord, don't they love to talk But when they turn out the lights I know she'll be leavin' with me And when we get behind closed doors Then she lets her hair hang d...",
+        "title": "Behind Closed Doors",
+        "artist": "Charlie Rich",
+        "confidence": 0.2900957777818256,
+        "class_probabilities": {
+          "angry": 0.22790980806391684,
+          "happy": 0.2900957777818256,
+          "relaxed": 0.25789968691086684,
+          "sad": 0.2240947272433907
+        }
+      }
+    ],
+    "happy_as_sad": [
+      {
+        "lyrics_preview": "If you really want to know She comes here a lot She just loves to hear the music and dance K13 is her favorite song If you play it you might have a chance Tonight she's only sippin' white wine She's friendly and fun lovin' Most of the time But don't ask her on a straight tequila night She'll start t...",
+        "title": "Straight Tequila Night",
+        "artist": "John Anderson",
+        "confidence": 0.33003206260210977,
+        "class_probabilities": {
+          "angry": 0.19758412850123014,
+          "happy": 0.22500858205135796,
+          "relaxed": 0.24737522684530208,
+          "sad": 0.33003206260210977
+        }
+      }
+    ],
+    "relaxed_as_happy": [
+      {
+        "lyrics_preview": "Girl, I've been thinking 'bout us And you know I ain't good at this stuff These feelings pilin' up won't give me no rest This might come out a little crazy A little sideways, yeah, maybe I don't know how long it'll take me, but I'll do my best If you'll be my soft and sweet I'll be your strong and s...",
+        "title": "Honey Bee",
+        "artist": "Blake Shelton",
+        "confidence": 0.3721247629668914,
+        "class_probabilities": {
+          "angry": 0.1305618883557086,
+          "happy": 0.3721247629668914,
+          "relaxed": 0.356561367665385,
+          "sad": 0.14075198101201508
+        }
+      },
+      {
+        "lyrics_preview": "There'll be no strings to bind your hands Not if my love can't bind your heart There's no need to take a stand For it was I who chose to start I see no need to take me home I'm old enough to face the dawn Just call me angel of the morning, angel Just touch my cheek before you leave me, baby Just cal...",
+        "title": "Angel of the Morning",
+        "artist": "Juice Newton",
+        "confidence": 0.3358678120072043,
+        "class_probabilities": {
+          "angry": 0.19010717438530292,
+          "happy": 0.3358678120072043,
+          "relaxed": 0.2578206902738131,
+          "sad": 0.21620432333367978
+        }
+      },
+      {
+        "lyrics_preview": "Hey, I'm just an old chunk of coal But I'm gonna be a diamond some day I'm gonna grow and glow till I'm so blue pure perfect I'm gonna put a smile on everybody's face I'm gonna kneel and pray every day Last, I should become vain along the way I'm just an old chunk of coal now Lord But I'm gonna be a...",
+        "title": "I\u2019m Just an Old Chunk of Coal",
+        "artist": "John Anderson",
+        "confidence": 0.3309725421443897,
+        "class_probabilities": {
+          "angry": 0.17549430169927122,
+          "happy": 0.3309725421443897,
+          "relaxed": 0.2424952850683732,
+          "sad": 0.251037871087966
+        }
+      }
+    ],
+    "angry_as_happy": [
+      {
+        "lyrics_preview": "I've got your picture that you gave to me And it's signed with love, just like it used to be The only thing different, the only thing new I've got your picture, she's got you I've got the records that we used to share And they still sound the same as when you were here The only thing different, the ...",
+        "title": "She's Got You",
+        "artist": "Patsy Cline",
+        "confidence": 0.4227667338348875,
+        "class_probabilities": {
+          "angry": 0.20839802829250562,
+          "happy": 0.4227667338348875,
+          "relaxed": 0.23187549909909505,
+          "sad": 0.13695973877351175
+        }
+      },
+      {
+        "lyrics_preview": "Girl, I know I don't know you But your pretty little eyes so blue Are pullin' me in Like the moon on your skin I'm so glad you trusted me To slide up on this dusty seat And let your hair down And get out of town Got the stars comin' out over my hood And all I know now is it's going good You got your...",
+        "title": "I Don\u2019t Want This Night to End",
+        "artist": "Luke Bryan",
+        "confidence": 0.29744341014192327,
+        "class_probabilities": {
+          "angry": 0.182815859493622,
+          "happy": 0.29744341014192327,
+          "relaxed": 0.28733181125733476,
+          "sad": 0.2324089191071199
+        }
+      }
+    ],
+    "happy_as_angry": [
+      {
+        "lyrics_preview": "I got smoke in my hair My clothes thrown everywhere Woke up in my rocking chair Holding a beer in my hand Sporting a neon tan My stereo cranked up I can't find my truck How'd I get home from the club Ain't got a clue what went down So I started calling around And all my friends say I started shootin...",
+        "title": "All My Friends Say",
+        "artist": "Luke Bryan",
+        "confidence": 0.3467325399072006,
+        "class_probabilities": {
+          "angry": 0.3467325399072006,
+          "happy": 0.19507385657274398,
+          "relaxed": 0.25764229699521374,
+          "sad": 0.2005513065248416
+        }
+      },
+      {
+        "lyrics_preview": "And he'll tell her he's working late again But she knows too well there's something going on She's been neglected, and she needs a friend So her trembling fingers dial the telephone Lord, it hurts her doing this again He's the best friend that her husband ever knew When she's lonely, he's more than ...",
+        "title": "Daytime Friends",
+        "artist": "Kenny Rogers",
+        "confidence": 0.25658978056560866,
+        "class_probabilities": {
+          "angry": 0.25658978056560866,
+          "happy": 0.241380061525045,
+          "relaxed": 0.2555440956520724,
+          "sad": 0.2464860622572738
+        }
+      }
+    ],
+    "relaxed_as_angry": [
+      {
+        "lyrics_preview": "Well, in North Carolina, way back in the hills Me and my old pappy, and he had him a still He brewed white lightnin' till the sun went down And then he'd fill him a jug and he'd pass it around Mighty, mighty pleasin', pappy's corn squeezin' Whshhhoooh... white lightnin' Well, the G men, T men, reven...",
+        "title": "White Lightning",
+        "artist": "George Jones",
+        "confidence": 0.3033084933959855,
+        "class_probabilities": {
+          "angry": 0.3033084933959855,
+          "happy": 0.18039626475927906,
+          "relaxed": 0.2564042583050607,
+          "sad": 0.25989098353967477
+        }
+      },
+      {
+        "lyrics_preview": "Well I never felt more like singing the blues 'Cause I never thought that I'd ever lose Your love dear why'd you do me this way Well I never felt more like crying all night 'Cause everything's wrong and nothing ain't right Without you you got me singing the blues The moon and stars no longer shine T...",
+        "title": "Singing the Blues",
+        "artist": "Marty Robbins",
+        "confidence": 0.28853980869144913,
+        "class_probabilities": {
+          "angry": 0.28853980869144913,
+          "happy": 0.19627685956887875,
+          "relaxed": 0.24712092622222875,
+          "sad": 0.26806240551744337
+        }
+      }
+    ],
+    "angry_as_sad": [
+      {
+        "lyrics_preview": "Take this job and shove it I ain't workin' here no more My woman done left and took all the reasons I was working for Ya better not try to stand in my way As I'm walkin' out the door Take this job and shove it I ain't workin' here no more I been working in this factory For now on fifteen years All t...",
+        "title": "Take This Job and Shove It",
+        "artist": "Johnny Paycheck",
+        "confidence": 0.2929172957925209,
+        "class_probabilities": {
+          "angry": 0.21348395420911265,
+          "happy": 0.2645902260729689,
+          "relaxed": 0.22900852392539758,
+          "sad": 0.2929172957925209
+        }
+      },
+      {
+        "lyrics_preview": "Driving down the interstate Running thirty minutes late Singing Margaritaville and minding my own Some foreign car driving dude with the road rage attitude Pulled up beside me talking on his cell phone He started yelling at me like I did something wrong He flipped me the bird and then he was gone So...",
+        "title": "Some Beach",
+        "artist": "Blake Shelton",
+        "confidence": 0.28736618910564204,
+        "class_probabilities": {
+          "angry": 0.2528982184993066,
+          "happy": 0.20980824621266736,
+          "relaxed": 0.249927346182384,
+          "sad": 0.28736618910564204
+        }
+      },
+      {
+        "lyrics_preview": "Well, I left Kentucky back in '49 And went to Detroit, working on assembly line The first year, they had me putting wheels on Cadillacs Every day, I'd watch them beauties roll by And sometimes, I'd hang my head and cry 'Cause I always wanted me one that was long and black One day, I devised myself a...",
+        "title": "One Piece at a Time",
+        "artist": "Johnny Cash",
+        "confidence": 0.2790945662613733,
+        "class_probabilities": {
+          "angry": 0.21737132404978313,
+          "happy": 0.2450133484700975,
+          "relaxed": 0.258520761218746,
+          "sad": 0.2790945662613733
+        }
+      }
+    ],
+    "angry_as_relaxed": [
+      {
+        "lyrics_preview": "Between the perfect world and the bottom line Keeping love alive in these troubled times Well, it's a miracle in itself And we know too well what that's about Still we made it through, only God knows how We must've had a little help It must've been wild angels, wild angels Watching over you and me, ...",
+        "title": "Wild Angels",
+        "artist": "Martina McBride",
+        "confidence": 0.35067004677157426,
+        "class_probabilities": {
+          "angry": 0.2649871344901279,
+          "happy": 0.1730713453284641,
+          "relaxed": 0.35067004677157426,
+          "sad": 0.21127147340983365
+        }
+      },
+      {
+        "lyrics_preview": "I've been a walking heartache I've made a mess of me The person that I've been lately Ain\u2019t who I want to be But you stay here right beside me Watch as the storm blows through And I need you 'Cause God gave me you for the ups and downs God gave me you for the days of doubt And for when I think I've ...",
+        "title": "God Gave Me You",
+        "artist": "Blake Shelton",
+        "confidence": 0.3003405858644206,
+        "class_probabilities": {
+          "angry": 0.22136840737288188,
+          "happy": 0.26989560437022353,
+          "relaxed": 0.3003405858644206,
+          "sad": 0.20839540239247398
+        }
+      },
+      {
+        "lyrics_preview": "Woo Oh yeah I saw Star Wars at least eight times Had the Pac-Man pattern memorized And I've seen the stuff they put inside Stretch Armstrong, yeah Oh, I was Roger Staubach in my backyard Had a shoebox full of baseball cards And a couple of Evel Knievel scars on my arm Well, I was a kid when Elvis di...",
+        "title": "19 Somethin'",
+        "artist": "Mark Wills",
+        "confidence": 0.2971705331239776,
+        "class_probabilities": {
+          "angry": 0.1623825249224353,
+          "happy": 0.2713067575972237,
+          "relaxed": 0.2971705331239776,
+          "sad": 0.2691401843563633
+        }
+      }
+    ],
+    "sad_as_angry": [
+      {
+        "lyrics_preview": "Hey girl, what's your name girl I've been looking at you And every guy here's doing the same girl It'd be a shame girl If I let you just walk on by Cause I'm all caught up in your sweet smile A girl like you comes around once in a while So hot, got to give it a shot Gotta get get a little bit of wha...",
+        "title": "Hey Girl",
+        "artist": "Billy Currington",
+        "confidence": 0.3313593805964238,
+        "class_probabilities": {
+          "angry": 0.3313593805964238,
+          "happy": 0.1900827058314776,
+          "relaxed": 0.3124485744108306,
+          "sad": 0.16610933916126797
+        }
+      }
+    ]
+  }
+}

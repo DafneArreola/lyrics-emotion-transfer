@@ -1,0 +1,274 @@
+{
+  "by_genre": {
+    "classic-pop": {
+      "predictions": 98,
+      "errors": 49,
+      "error_rate": 0.5,
+      "confusion_patterns": {
+        "confusion_pairs": [
+          {
+            "true": "sad",
+            "predicted": "relaxed",
+            "count": 9
+          },
+          {
+            "true": "happy",
+            "predicted": "relaxed",
+            "count": 8
+          },
+          {
+            "true": "relaxed",
+            "predicted": "happy",
+            "count": 6
+          },
+          {
+            "true": "angry",
+            "predicted": "sad",
+            "count": 6
+          },
+          {
+            "true": "relaxed",
+            "predicted": "sad",
+            "count": 4
+          },
+          {
+            "true": "relaxed",
+            "predicted": "angry",
+            "count": 4
+          },
+          {
+            "true": "happy",
+            "predicted": "sad",
+            "count": 4
+          },
+          {
+            "true": "happy",
+            "predicted": "angry",
+            "count": 3
+          },
+          {
+            "true": "sad",
+            "predicted": "angry",
+            "count": 2
+          },
+          {
+            "true": "angry",
+            "predicted": "relaxed",
+            "count": 2
+          },
+          {
+            "true": "angry",
+            "predicted": "happy",
+            "count": 1
+          }
+        ],
+        "total_errors": 49
+      }
+    },
+    "hip-hop": {
+      "predictions": 100,
+      "errors": 40,
+      "error_rate": 0.4,
+      "confusion_patterns": {
+        "confusion_pairs": [
+          {
+            "true": "happy",
+            "predicted": "angry",
+            "count": 9
+          },
+          {
+            "true": "angry",
+            "predicted": "happy",
+            "count": 6
+          },
+          {
+            "true": "sad",
+            "predicted": "angry",
+            "count": 6
+          },
+          {
+            "true": "relaxed",
+            "predicted": "happy",
+            "count": 5
+          },
+          {
+            "true": "happy",
+            "predicted": "relaxed",
+            "count": 4
+          },
+          {
+            "true": "sad",
+            "predicted": "relaxed",
+            "count": 3
+          },
+          {
+            "true": "relaxed",
+            "predicted": "angry",
+            "count": 2
+          },
+          {
+            "true": "angry",
+            "predicted": "sad",
+            "count": 2
+          },
+          {
+            "true": "happy",
+            "predicted": "sad",
+            "count": 1
+          },
+          {
+            "true": "sad",
+            "predicted": "happy",
+            "count": 1
+          },
+          {
+            "true": "angry",
+            "predicted": "relaxed",
+            "count": 1
+          }
+        ],
+        "total_errors": 40
+      }
+    },
+    "hard-rock": {
+      "predictions": 97,
+      "errors": 48,
+      "error_rate": 0.4948453608247423,
+      "confusion_patterns": {
+        "confusion_pairs": [
+          {
+            "true": "sad",
+            "predicted": "angry",
+            "count": 11
+          },
+          {
+            "true": "angry",
+            "predicted": "sad",
+            "count": 7
+          },
+          {
+            "true": "relaxed",
+            "predicted": "angry",
+            "count": 6
+          },
+          {
+            "true": "happy",
+            "predicted": "angry",
+            "count": 5
+          },
+          {
+            "true": "happy",
+            "predicted": "sad",
+            "count": 4
+          },
+          {
+            "true": "angry",
+            "predicted": "happy",
+            "count": 3
+          },
+          {
+            "true": "happy",
+            "predicted": "relaxed",
+            "count": 3
+          },
+          {
+            "true": "relaxed",
+            "predicted": "sad",
+            "count": 3
+          },
+          {
+            "true": "sad",
+            "predicted": "relaxed",
+            "count": 2
+          },
+          {
+            "true": "angry",
+            "predicted": "relaxed",
+            "count": 2
+          },
+          {
+            "true": "relaxed",
+            "predicted": "happy",
+            "count": 2
+          }
+        ],
+        "total_errors": 48
+      }
+    },
+    "country": {
+      "predictions": 100,
+      "errors": 48,
+      "error_rate": 0.48,
+      "confusion_patterns": {
+        "confusion_pairs": [
+          {
+            "true": "sad",
+            "predicted": "relaxed",
+            "count": 8
+          },
+          {
+            "true": "happy",
+            "predicted": "relaxed",
+            "count": 8
+          },
+          {
+            "true": "relaxed",
+            "predicted": "happy",
+            "count": 8
+          },
+          {
+            "true": "relaxed",
+            "predicted": "sad",
+            "count": 7
+          },
+          {
+            "true": "angry",
+            "predicted": "relaxed",
+            "count": 4
+          },
+          {
+            "true": "angry",
+            "predicted": "sad",
+            "count": 3
+          },
+          {
+            "true": "sad",
+            "predicted": "happy",
+            "count": 2
+          },
+          {
+            "true": "angry",
+            "predicted": "happy",
+            "count": 2
+          },
+          {
+            "true": "happy",
+            "predicted": "angry",
+            "count": 2
+          },
+          {
+            "true": "relaxed",
+            "predicted": "angry",
+            "count": 2
+          },
+          {
+            "true": "happy",
+            "predicted": "sad",
+            "count": 1
+          },
+          {
+            "true": "sad",
+            "predicted": "angry",
+            "count": 1
+          }
+        ],
+        "total_errors": 48
+      }
+    }
+  },
+  "overall": {
+    "total_predictions": 395,
+    "total_errors": 185,
+    "overall_error_rate": 0.46835443037974683
+  }
+}

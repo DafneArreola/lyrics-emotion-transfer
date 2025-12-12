@@ -1,0 +1,529 @@
+{
+  "angry": {
+    "classic-pop\u2194hip-hop": {
+      "shared_count": 1,
+      "shared_features": [
+        "wild"
+      ],
+      "g1_unique": [
+        "set",
+        "pieces",
+        "secret",
+        "thing",
+        "tried"
+      ],
+      "g2_unique": [
+        "straight",
+        "stuff",
+        "monkey",
+        "woo",
+        "cause"
+      ]
+    },
+    "classic-pop\u2194hard-rock": {
+      "shared_count": 2,
+      "shared_features": [
+        "die",
+        "run"
+      ],
+      "g1_unique": [
+        "set",
+        "pieces",
+        "secret",
+        "thing",
+        "tried"
+      ],
+      "g2_unique": [
+        "pain",
+        "hate",
+        "gimme",
+        "death",
+        "judas"
+      ]
+    },
+    "classic-pop\u2194country": {
+      "shared_count": 4,
+      "shared_features": [
+        "fall",
+        "run",
+        "crazy",
+        "pieces"
+      ],
+      "g1_unique": [
+        "set",
+        "secret",
+        "thing",
+        "tried",
+        "wild"
+      ],
+      "g2_unique": [
+        "lying",
+        "rolls",
+        "bet",
+        "going",
+        "music"
+      ]
+    },
+    "hip-hop\u2194hard-rock": {
+      "shared_count": 3,
+      "shared_features": [
+        "hell",
+        "fight",
+        "gun"
+      ],
+      "g1_unique": [
+        "straight",
+        "stuff",
+        "monkey",
+        "woo",
+        "cause"
+      ],
+      "g2_unique": [
+        "pain",
+        "hate",
+        "gimme",
+        "death",
+        "judas"
+      ]
+    },
+    "hip-hop\u2194country": {
+      "shared_count": 1,
+      "shared_features": [
+        "hell"
+      ],
+      "g1_unique": [
+        "straight",
+        "stuff",
+        "monkey",
+        "woo",
+        "cause"
+      ],
+      "g2_unique": [
+        "lying",
+        "rolls",
+        "pieces",
+        "bet",
+        "going"
+      ]
+    },
+    "hard-rock\u2194country": {
+      "shared_count": 2,
+      "shared_features": [
+        "hell",
+        "run"
+      ],
+      "g1_unique": [
+        "pain",
+        "hate",
+        "gimme",
+        "death",
+        "judas"
+      ],
+      "g2_unique": [
+        "lying",
+        "rolls",
+        "pieces",
+        "bet",
+        "going"
+      ]
+    }
+  },
+  "happy": {
+    "classic-pop\u2194hip-hop": {
+      "shared_count": 3,
+      "shared_features": [
+        "yes",
+        "love",
+        "got"
+      ],
+      "g1_unique": [
+        "gimme",
+        "memories",
+        "bouquet",
+        "cause",
+        "wish"
+      ],
+      "g2_unique": [
+        "perfect",
+        "wow",
+        "bonita",
+        "paid",
+        "basketball"
+      ]
+    },
+    "classic-pop\u2194hard-rock": {
+      "shared_count": 3,
+      "shared_features": [
+        "wish",
+        "love",
+        "got"
+      ],
+      "g1_unique": [
+        "yes",
+        "gimme",
+        "memories",
+        "bouquet",
+        "cause"
+      ],
+      "g2_unique": [
+        "wish wish",
+        "hair",
+        "high",
+        "help",
+        "iron"
+      ]
+    },
+    "classic-pop\u2194country": {
+      "shared_count": 4,
+      "shared_features": [
+        "love",
+        "life",
+        "gonna",
+        "got"
+      ],
+      "g1_unique": [
+        "yes",
+        "gimme",
+        "memories",
+        "bouquet",
+        "cause"
+      ],
+      "g2_unique": [
+        "angel",
+        "live",
+        "roll",
+        "tractor",
+        "tried"
+      ]
+    },
+    "hip-hop\u2194hard-rock": {
+      "shared_count": 2,
+      "shared_features": [
+        "love",
+        "got"
+      ],
+      "g1_unique": [
+        "yes",
+        "perfect",
+        "wow",
+        "bonita",
+        "paid"
+      ],
+      "g2_unique": [
+        "wish wish",
+        "hair",
+        "high",
+        "help",
+        "wish"
+      ]
+    },
+    "hip-hop\u2194country": {
+      "shared_count": 5,
+      "shared_features": [
+        "love",
+        "want",
+        "play",
+        "money",
+        "got"
+      ],
+      "g1_unique": [
+        "yes",
+        "perfect",
+        "wow",
+        "bonita",
+        "paid"
+      ],
+      "g2_unique": [
+        "angel",
+        "live",
+        "roll",
+        "tractor",
+        "tried"
+      ]
+    },
+    "hard-rock\u2194country": {
+      "shared_count": 2,
+      "shared_features": [
+        "love",
+        "got"
+      ],
+      "g1_unique": [
+        "wish wish",
+        "hair",
+        "high",
+        "help",
+        "wish"
+      ],
+      "g2_unique": [
+        "angel",
+        "live",
+        "roll",
+        "tractor",
+        "tried"
+      ]
+    }
+  },
+  "relaxed": {
+    "classic-pop\u2194hip-hop": {
+      "shared_count": 6,
+      "shared_features": [
+        "yeah yeah",
+        "easy",
+        "summer",
+        "know",
+        "sky",
+        "baby"
+      ],
+      "g1_unique": [
+        "angel",
+        "sweet",
+        "arms",
+        "remember",
+        "rollin"
+      ],
+      "g2_unique": [
+        "tell",
+        "way talk",
+        "flash",
+        "smooth",
+        "ayy"
+      ]
+    },
+    "classic-pop\u2194hard-rock": {
+      "shared_count": 2,
+      "shared_features": [
+        "sweet",
+        "good"
+      ],
+      "g1_unique": [
+        "angel",
+        "arms",
+        "easy",
+        "summer",
+        "remember"
+      ],
+      "g2_unique": [
+        "yes",
+        "tell",
+        "mind",
+        "roam",
+        "blind"
+      ]
+    },
+    "classic-pop\u2194country": {
+      "shared_count": 4,
+      "shared_features": [
+        "ve",
+        "sweet",
+        "blue",
+        "good"
+      ],
+      "g1_unique": [
+        "angel",
+        "arms",
+        "easy",
+        "summer",
+        "remember"
+      ],
+      "g2_unique": [
+        "maybe",
+        "hello",
+        "eyes",
+        "open",
+        "sure"
+      ]
+    },
+    "hip-hop\u2194hard-rock": {
+      "shared_count": 1,
+      "shared_features": [
+        "tell"
+      ],
+      "g1_unique": [
+        "easy",
+        "way talk",
+        "flash",
+        "smooth",
+        "summer"
+      ],
+      "g2_unique": [
+        "yes",
+        "sweet",
+        "mind",
+        "roam",
+        "blind"
+      ]
+    },
+    "hip-hop\u2194country": {
+      "shared_count": 0,
+      "shared_features": [],
+      "g1_unique": [
+        "tell",
+        "easy",
+        "way talk",
+        "flash",
+        "smooth"
+      ],
+      "g2_unique": [
+        "maybe",
+        "sweet",
+        "hello",
+        "eyes",
+        "open"
+      ]
+    },
+    "hard-rock\u2194country": {
+      "shared_count": 4,
+      "shared_features": [
+        "home",
+        "sweet",
+        "need",
+        "good"
+      ],
+      "g1_unique": [
+        "yes",
+        "tell",
+        "mind",
+        "roam",
+        "blind"
+      ],
+      "g2_unique": [
+        "maybe",
+        "hello",
+        "eyes",
+        "open",
+        "sure"
+      ]
+    }
+  },
+  "sad": {
+    "classic-pop\u2194hip-hop": {
+      "shared_count": 2,
+      "shared_features": [
+        "gone",
+        "soul"
+      ],
+      "g1_unique": [
+        "eyes",
+        "comin",
+        "roll",
+        "downtown",
+        "twist"
+      ],
+      "g2_unique": [
+        "thing",
+        "fat boys",
+        "em",
+        "know yeah",
+        "house"
+      ]
+    },
+    "classic-pop\u2194hard-rock": {
+      "shared_count": 5,
+      "shared_features": [
+        "left",
+        "line",
+        "thought",
+        "late",
+        "gone"
+      ],
+      "g1_unique": [
+        "eyes",
+        "comin",
+        "roll",
+        "downtown",
+        "twist"
+      ],
+      "g2_unique": [
+        "save save",
+        "seventeen",
+        "comes",
+        "darkness",
+        "break"
+      ]
+    },
+    "classic-pop\u2194country": {
+      "shared_count": 4,
+      "shared_features": [
+        "thought",
+        "gone",
+        "day",
+        "number"
+      ],
+      "g1_unique": [
+        "eyes",
+        "comin",
+        "roll",
+        "downtown",
+        "twist"
+      ],
+      "g2_unique": [
+        "bitty",
+        "lovin",
+        "dry",
+        "away",
+        "try"
+      ]
+    },
+    "hip-hop\u2194hard-rock": {
+      "shared_count": 1,
+      "shared_features": [
+        "gone"
+      ],
+      "g1_unique": [
+        "thing",
+        "fat boys",
+        "em",
+        "know yeah",
+        "house"
+      ],
+      "g2_unique": [
+        "save save",
+        "seventeen",
+        "comes",
+        "darkness",
+        "thought"
+      ]
+    },
+    "hip-hop\u2194country": {
+      "shared_count": 1,
+      "shared_features": [
+        "gone"
+      ],
+      "g1_unique": [
+        "thing",
+        "fat boys",
+        "em",
+        "know yeah",
+        "house"
+      ],
+      "g2_unique": [
+        "bitty",
+        "lovin",
+        "dry",
+        "away",
+        "thought"
+      ]
+    },
+    "hard-rock\u2194country": {
+      "shared_count": 2,
+      "shared_features": [
+        "thought",
+        "gone"
+      ],
+      "g1_unique": [
+        "save save",
+        "seventeen",
+        "comes",
+        "darkness",
+        "late"
+      ],
+      "g2_unique": [
+        "bitty",
+        "lovin",
+        "dry",
+        "away",
+        "try"
+      ]
+    }
+  }
+}

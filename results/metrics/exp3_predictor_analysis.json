@@ -1,0 +1,166 @@
+{
+  "correlations": {
+    "vocab_overlap": {
+      "pearson_r": 0.5959617171548355,
+      "p_value": 0.040855576648300654
+    },
+    "emotion_similarity": {
+      "pearson_r": 0.8008023887520466,
+      "p_value": 0.0017489096115771725
+    },
+    "train_vocab_size": {
+      "pearson_r": -0.25601687534045653,
+      "p_value": 0.4218716182841731
+    },
+    "vocab_ratio": {
+      "pearson_r": -0.12033479744858804,
+      "p_value": 0.7095071728137784
+    }
+  },
+  "data": [
+    {
+      "train_genre": "classic-pop",
+      "test_genre": "hip-hop",
+      "transfer_f1": 0.2422619047619047,
+      "vocab_overlap": 0.24995667995148155,
+      "emotion_similarity": 0.6399856510474953,
+      "train_vocab_size": 4427,
+      "test_vocab_size": 10000,
+      "vocab_ratio": 0.4427,
+      "train_avg_length": 224.59753593429159,
+      "test_avg_length": 709.726
+    },
+    {
+      "train_genre": "classic-pop",
+      "test_genre": "hard-rock",
+      "transfer_f1": 0.3046577004752755,
+      "vocab_overlap": 0.3220538280637575,
+      "emotion_similarity": 0.6831362425833718,
+      "train_vocab_size": 4427,
+      "test_vocab_size": 5692,
+      "vocab_ratio": 0.7777582572030921,
+      "train_avg_length": 224.59753593429159,
+      "test_avg_length": 284.3567010309278
+    },
+    {
+      "train_genre": "classic-pop",
+      "test_genre": "country",
+      "transfer_f1": 0.3985316181986673,
+      "vocab_overlap": 0.36579310344827587,
+      "emotion_similarity": 0.9464914493467123,
+      "train_vocab_size": 4427,
+      "test_vocab_size": 5475,
+      "vocab_ratio": 0.8085844748858447,
+      "train_avg_length": 224.59753593429159,
+      "test_avg_length": 259.382
+    },
+    {
+      "train_genre": "hip-hop",
+      "test_genre": "classic-pop",
+      "transfer_f1": 0.3252812733717036,
+      "vocab_overlap": 0.24995667995148155,
+      "emotion_similarity": 0.6399856510474953,
+      "train_vocab_size": 10000,
+      "test_vocab_size": 4427,
+      "vocab_ratio": 2.25886604924328,
+      "train_avg_length": 709.726,
+      "test_avg_length": 224.59753593429159
+    },
+    {
+      "train_genre": "hip-hop",
+      "test_genre": "hard-rock",
+      "transfer_f1": 0.3017570937344148,
+      "vocab_overlap": 0.2891883010187315,
+      "emotion_similarity": 0.8503694066117136,
+      "train_vocab_size": 10000,
+      "test_vocab_size": 5692,
+      "vocab_ratio": 1.7568517217146873,
+      "train_avg_length": 709.726,
+      "test_avg_length": 284.3567010309278
+    },
+    {
+      "train_genre": "hip-hop",
+      "test_genre": "country",
+      "transfer_f1": 0.2319291819291819,
+      "vocab_overlap": 0.28647435364535706,
+      "emotion_similarity": 0.676401317292556,
+      "train_vocab_size": 10000,
+      "test_vocab_size": 5475,
+      "vocab_ratio": 1.82648401826484,
+      "train_avg_length": 709.726,
+      "test_avg_length": 259.382
+    },
+    {
+      "train_genre": "hard-rock",
+      "test_genre": "classic-pop",
+      "transfer_f1": 0.225882004899862,
+      "vocab_overlap": 0.3220538280637575,
+      "emotion_similarity": 0.6831362425833718,
+      "train_vocab_size": 5692,
+      "test_vocab_size": 4427,
+      "vocab_ratio": 1.2857465552292748,
+      "train_avg_length": 284.3567010309278,
+      "test_avg_length": 224.59753593429159
+    },
+    {
+      "train_genre": "hard-rock",
+      "test_genre": "hip-hop",
+      "transfer_f1": 0.3784804388231561,
+      "vocab_overlap": 0.2891883010187315,
+      "emotion_similarity": 0.8503694066117136,
+      "train_vocab_size": 5692,
+      "test_vocab_size": 10000,
+      "vocab_ratio": 0.5692,
+      "train_avg_length": 284.3567010309278,
+      "test_avg_length": 709.726
+    },
+    {
+      "train_genre": "hard-rock",
+      "test_genre": "country",
+      "transfer_f1": 0.3406946480938416,
+      "vocab_overlap": 0.33098927294398095,
+      "emotion_similarity": 0.7286443041872301,
+      "train_vocab_size": 5692,
+      "test_vocab_size": 5475,
+      "vocab_ratio": 1.039634703196347,
+      "train_avg_length": 284.3567010309278,
+      "test_avg_length": 259.382
+    },
+    {
+      "train_genre": "country",
+      "test_genre": "classic-pop",
+      "transfer_f1": 0.4785743710669489,
+      "vocab_overlap": 0.36579310344827587,
+      "emotion_similarity": 0.9464914493467123,
+      "train_vocab_size": 5475,
+      "test_vocab_size": 4427,
+      "vocab_ratio": 1.2367291619606957,
+      "train_avg_length": 259.382,
+      "test_avg_length": 224.59753593429159
+    },
+    {
+      "train_genre": "country",
+      "test_genre": "hip-hop",
+      "transfer_f1": 0.3003350949435673,
+      "vocab_overlap": 0.28647435364535706,
+      "emotion_similarity": 0.676401317292556,
+      "train_vocab_size": 5475,
+      "test_vocab_size": 10000,
+      "vocab_ratio": 0.5475,
+      "train_avg_length": 259.382,
+      "test_avg_length": 709.726
+    },
+    {
+      "train_genre": "country",
+      "test_genre": "hard-rock",
+      "transfer_f1": 0.3265382588841402,
+      "vocab_overlap": 0.33098927294398095,
+      "emotion_similarity": 0.7286443041872301,
+      "train_vocab_size": 5475,
+      "test_vocab_size": 5692,
+      "vocab_ratio": 0.9618763176387913,
+      "train_avg_length": 259.382,
+      "test_avg_length": 284.3567010309278
+    }
+  ]
+}

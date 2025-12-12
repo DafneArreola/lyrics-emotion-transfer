@@ -1,0 +1,84 @@
+{
+  "genre_vocab_stats": {
+    "classic-pop": {
+      "vocab_size": 4427,
+      "total_tokens": 109379,
+      "unique_tokens": 6585,
+      "type_token_ratio": 0.06020351255725505,
+      "avg_song_length": 224.59753593429159
+    },
+    "hip-hop": {
+      "vocab_size": 10000,
+      "total_tokens": 354863,
+      "unique_tokens": 22546,
+      "type_token_ratio": 0.06353437805575674,
+      "avg_song_length": 709.726
+    },
+    "hard-rock": {
+      "vocab_size": 5692,
+      "total_tokens": 137913,
+      "unique_tokens": 8164,
+      "type_token_ratio": 0.05919673997375157,
+      "avg_song_length": 284.3567010309278
+    },
+    "country": {
+      "vocab_size": 5475,
+      "total_tokens": 129691,
+      "unique_tokens": 7644,
+      "type_token_ratio": 0.05894009607451558,
+      "avg_song_length": 259.382
+    }
+  },
+  "vocab_overlap_matrix": {
+    "classic-pop": {
+      "classic-pop": 1.0,
+      "hip-hop": 0.24995667995148155,
+      "hard-rock": 0.3220538280637575,
+      "country": 0.36579310344827587
+    },
+    "hip-hop": {
+      "classic-pop": 0.24995667995148155,
+      "hip-hop": 1.0,
+      "hard-rock": 0.2891883010187315,
+      "country": 0.28647435364535706
+    },
+    "hard-rock": {
+      "classic-pop": 0.3220538280637575,
+      "hip-hop": 0.2891883010187315,
+      "hard-rock": 1.0,
+      "country": 0.33098927294398095
+    },
+    "country": {
+      "classic-pop": 0.36579310344827587,
+      "hip-hop": 0.28647435364535706,
+      "hard-rock": 0.33098927294398095,
+      "country": 1.0
+    }
+  },
+  "emotion_similarity_matrix": {
+    "classic-pop": {
+      "classic-pop": 1.0,
+      "hip-hop": 0.6399856510474953,
+      "hard-rock": 0.6831362425833718,
+      "country": 0.9464914493467123
+    },
+    "hip-hop": {
+      "classic-pop": 0.6399856510474953,
+      "hip-hop": 1.0,
+      "hard-rock": 0.8503694066117136,
+      "country": 0.676401317292556
+    },
+    "hard-rock": {
+      "classic-pop": 0.6831362425833718,
+      "hip-hop": 0.8503694066117136,
+      "hard-rock": 1.0,
+      "country": 0.7286443041872301
+    },
+    "country": {
+      "classic-pop": 0.9464914493467123,
+      "hip-hop": 0.676401317292556,
+      "hard-rock": 0.7286443041872301,
+      "country": 1.0
+    }
+  }
+}
